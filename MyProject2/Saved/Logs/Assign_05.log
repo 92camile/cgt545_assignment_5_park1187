@@ -8034,3 +8034,311 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2023.12.07-22.29.27:767][788]LogUObjectHash: Compacting FUObjectHashTables data took   0.69ms
 [2023.12.07-22.29.27:798][788]LogUObjectHash: Compacting FUObjectHashTables data took   0.64ms
 [2023.12.07-22.29.27:810][788]LogFileHelpers: InternalPromptForCheckoutAndSave took 233 ms (total: 28.9 sec)
+[2023.12.07-22.30.08:254][130]LogUObjectHash: Compacting FUObjectHashTables data took   0.50ms
+[2023.12.07-22.30.08:256][130]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/FirstPerson/Maps/FirstPersonMap' took 0.023
+[2023.12.07-22.30.08:256][130]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/LevelPrototyping/Materials/MI_PrototypeGrid_TopDark] ([1] browsable assets)...
+[2023.12.07-22.30.08:256][130]OBJ SavePackage: Finished generating thumbnails for package [/Game/LevelPrototyping/Materials/MI_PrototypeGrid_TopDark]
+[2023.12.07-22.30.08:261][130]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/LevelPrototyping/Materials/MI_PrototypeGrid_TopDark_Auto5
+[2023.12.07-22.30.08:261][130]LogSavePackage: Moving '../../../../../../temp/cgt545_assignment_5_park1187/MyProject2/Saved/MI_PrototypeGrid_TopDark_Auto52B65511F48E3E58B568C6D8FB01ECD1C.tmp' to '../../../../../../temp/cgt545_assignment_5_park1187/MyProject2/Saved/Autosaves/Game/LevelPrototyping/Materials/MI_PrototypeGrid_TopDark_Auto5.uasset'
+[2023.12.07-22.30.08:267][130]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Materials/_d_36855j_h_g1gUd018svc1fr8i6omieing_rtc078_Mat] ([1] browsable assets)...
+[2023.12.07-22.30.08:267][130]OBJ SavePackage: Finished generating thumbnails for package [/Game/Materials/_d_36855j_h_g1gUd018svc1fr8i6omieing_rtc078_Mat]
+[2023.12.07-22.30.08:272][130]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Materials/_d_36855j_h_g1gUd018svc1fr8i6omieing_rtc078_Mat_Auto5
+[2023.12.07-22.30.08:272][130]LogSavePackage: Moving '../../../../../../temp/cgt545_assignment_5_park1187/MyProject2/Saved/_d_36855j_h_g1gUd018svc1fr8i6omiD8C42BD54EBF462BDEF39F862B88FA11.tmp' to '../../../../../../temp/cgt545_assignment_5_park1187/MyProject2/Saved/Autosaves/Game/Materials/_d_36855j_h_g1gUd018svc1fr8i6omieing_rtc078_Mat_Auto5.uasset'
+[2023.12.07-22.30.08:278][130]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Materials/_d_36854j_i_91gUd018svc1oehjcrzo1ib4_rtc078_Mat] ([1] browsable assets)...
+[2023.12.07-22.30.08:278][130]OBJ SavePackage: Finished generating thumbnails for package [/Game/Materials/_d_36854j_i_91gUd018svc1oehjcrzo1ib4_rtc078_Mat]
+[2023.12.07-22.30.08:282][130]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Materials/_d_36854j_i_91gUd018svc1oehjcrzo1ib4_rtc078_Mat_Auto5
+[2023.12.07-22.30.08:282][130]LogSavePackage: Moving '../../../../../../temp/cgt545_assignment_5_park1187/MyProject2/Saved/_d_36854j_i_91gUd018svc1oehjcrzo257CE65340CDBDA6E4BCD09EAFA7D6A9.tmp' to '../../../../../../temp/cgt545_assignment_5_park1187/MyProject2/Saved/Autosaves/Game/Materials/_d_36854j_i_91gUd018svc1oehjcrzo1ib4_rtc078_Mat_Auto5.uasset'
+[2023.12.07-22.30.08:288][130]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/StarterContent/Textures/T_CobbleStone_Pebble_Mat] ([1] browsable assets)...
+[2023.12.07-22.30.08:288][130]OBJ SavePackage: Finished generating thumbnails for package [/Game/StarterContent/Textures/T_CobbleStone_Pebble_Mat]
+[2023.12.07-22.30.08:292][130]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/StarterContent/Textures/T_CobbleStone_Pebble_Mat_Auto5
+[2023.12.07-22.30.08:292][130]LogSavePackage: Moving '../../../../../../temp/cgt545_assignment_5_park1187/MyProject2/Saved/T_CobbleStone_Pebble_Mat_Auto5893B3B4F4F6B3CFC37986DB23B428724.tmp' to '../../../../../../temp/cgt545_assignment_5_park1187/MyProject2/Saved/Autosaves/Game/StarterContent/Textures/T_CobbleStone_Pebble_Mat_Auto5.uasset'
+[2023.12.07-22.30.08:297][130]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/LevelPrototyping/Materials/M_Solid_Inst] ([1] browsable assets)...
+[2023.12.07-22.30.08:297][130]OBJ SavePackage: Finished generating thumbnails for package [/Game/LevelPrototyping/Materials/M_Solid_Inst]
+[2023.12.07-22.30.08:301][130]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/LevelPrototyping/Materials/M_Solid_Inst_Auto5
+[2023.12.07-22.30.08:301][130]LogSavePackage: Moving '../../../../../../temp/cgt545_assignment_5_park1187/MyProject2/Saved/M_Solid_Inst_Auto5E524D4A6420DBF3E6415E2B1020B9419.tmp' to '../../../../../../temp/cgt545_assignment_5_park1187/MyProject2/Saved/Autosaves/Game/LevelPrototyping/Materials/M_Solid_Inst_Auto5.uasset'
+[2023.12.07-22.30.08:305][130]LogFileHelpers: Auto-saving content packages took 0.049
+[2023.12.07-22.42.57:667][436]LogHttp: Warning: 000004FF0E931900: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B359FC41F-49DB-6C01-B0C0-84A19CD1AB8F%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.2.1-26001984%2B%2B%2BUE5%2BRelease-5.2&UserID=c9f6c8e0423a95850992a2916998c4a2%7C7fa0bc95a3f444578e0de6c9637995fe%7C7ae49e04-9f0c-4c35-9b81-3bf25b34ac4e&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: 0, actual payload size: 0
+[2023.12.07-22.42.57:670][436]LogHttp: Warning: 000004FF0E931900: request failed, libcurl error: 56 (Failure when receiving data from the peer)
+[2023.12.07-22.42.57:670][436]LogHttp: Warning: 000004FF0E931900: libcurl info message cache 0 (Found bundle for host: 0x4fdff960cc0 [serially])
+[2023.12.07-22.42.57:670][436]LogHttp: Warning: 000004FF0E931900: libcurl info message cache 1 (Re-using existing connection #2 with host datarouter.ol.epicgames.com)
+[2023.12.07-22.42.57:670][436]LogHttp: Warning: 000004FF0E931900: libcurl info message cache 2 (Connected to datarouter.ol.epicgames.com (54.224.198.88) port 443 (#2))
+[2023.12.07-22.42.57:670][436]LogHttp: Warning: 000004FF0E931900: libcurl info message cache 3 (We are completely uploaded and fine)
+[2023.12.07-22.42.57:670][436]LogHttp: Warning: 000004FF0E931900: libcurl info message cache 4 (OpenSSL SSL_read: Connection was reset, errno 10054)
+[2023.12.07-22.42.57:670][436]LogHttp: Warning: 000004FF0E931900: libcurl info message cache 5 (Connection died, retrying a fresh connect (retry count: 1))
+[2023.12.07-22.42.57:670][436]LogHttp: Warning: 000004FF0E931900: libcurl info message cache 6 (necessary data rewind wasn't possible)
+[2023.12.07-22.42.57:670][436]LogHttp: Warning: 000004FF0E931900: libcurl info message cache 7 (Closing connection 2)
+[2023.12.07-22.42.57:670][436]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B359FC41F-49DB-6C01-B0C0-84A19CD1AB8F%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.2.1-26001984%2B%2B%2BUE5%2BRelease-5.2&UserID=c9f6c8e0423a95850992a2916998c4a2%7C7fa0bc95a3f444578e0de6c9637995fe%7C7ae49e04-9f0c-4c35-9b81-3bf25b34ac4e&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2023.12.07-22.43.38:675][559]LogHttp: Warning: 000004FF0E93C300: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B359FC41F-49DB-6C01-B0C0-84A19CD1AB8F%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.2.1-26001984%2B%2B%2BUE5%2BRelease-5.2&UserID=c9f6c8e0423a95850992a2916998c4a2%7C7fa0bc95a3f444578e0de6c9637995fe%7C7ae49e04-9f0c-4c35-9b81-3bf25b34ac4e&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: 0, actual payload size: 0
+[2023.12.07-22.43.38:676][559]LogHttp: Warning: 000004FF0E93C300: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2023.12.07-22.43.38:676][559]LogHttp: Warning: 000004FF0E93C300: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2023.12.07-22.43.38:676][559]LogHttp: Warning: 000004FF0E93C300: libcurl info message cache 1 (Closing connection 3)
+[2023.12.07-22.43.38:676][559]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B359FC41F-49DB-6C01-B0C0-84A19CD1AB8F%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.2.1-26001984%2B%2B%2BUE5%2BRelease-5.2&UserID=c9f6c8e0423a95850992a2916998c4a2%7C7fa0bc95a3f444578e0de6c9637995fe%7C7ae49e04-9f0c-4c35-9b81-3bf25b34ac4e&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2023.12.07-22.43.47:669][585]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2023.12.07-22.43.49:686][591]LogUdpMessaging: Display: Added local interface '10.186.111.165' to multicast group '230.0.0.1:6666'
+[2023.12.07-22.48.38:784][459]LogHttp: Warning: 000004FF0E935000: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B359FC41F-49DB-6C01-B0C0-84A19CD1AB8F%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.2.1-26001984%2B%2B%2BUE5%2BRelease-5.2&UserID=c9f6c8e0423a95850992a2916998c4a2%7C7fa0bc95a3f444578e0de6c9637995fe%7C7ae49e04-9f0c-4c35-9b81-3bf25b34ac4e&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: 0, actual payload size: 0
+[2023.12.07-22.48.38:785][459]LogHttp: Warning: 000004FF0E935000: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2023.12.07-22.48.38:785][459]LogHttp: Warning: 000004FF0E935000: libcurl info message cache 0 (Connection 5 seems to be dead)
+[2023.12.07-22.48.38:785][459]LogHttp: Warning: 000004FF0E935000: libcurl info message cache 1 (Closing connection 5)
+[2023.12.07-22.48.38:785][459]LogHttp: Warning: 000004FF0E935000: libcurl info message cache 2 (Could not resolve host: datarouter.ol.epicgames.com)
+[2023.12.07-22.48.38:785][459]LogHttp: Warning: 000004FF0E935000: libcurl info message cache 3 (Closing connection 6)
+[2023.12.07-22.48.38:785][459]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B359FC41F-49DB-6C01-B0C0-84A19CD1AB8F%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.2.1-26001984%2B%2B%2BUE5%2BRelease-5.2&UserID=c9f6c8e0423a95850992a2916998c4a2%7C7fa0bc95a3f444578e0de6c9637995fe%7C7ae49e04-9f0c-4c35-9b81-3bf25b34ac4e&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2023.12.07-22.49.38:796][639]LogHttp: Warning: 000004FF0E93F500: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B359FC41F-49DB-6C01-B0C0-84A19CD1AB8F%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.2.1-26001984%2B%2B%2BUE5%2BRelease-5.2&UserID=c9f6c8e0423a95850992a2916998c4a2%7C7fa0bc95a3f444578e0de6c9637995fe%7C7ae49e04-9f0c-4c35-9b81-3bf25b34ac4e&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: 0, actual payload size: 0
+[2023.12.07-22.49.38:797][639]LogHttp: Warning: 000004FF0E93F500: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2023.12.07-22.49.38:797][639]LogHttp: Warning: 000004FF0E93F500: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2023.12.07-22.49.38:797][639]LogHttp: Warning: 000004FF0E93F500: libcurl info message cache 1 (Closing connection 7)
+[2023.12.07-22.49.38:797][639]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B359FC41F-49DB-6C01-B0C0-84A19CD1AB8F%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.2.1-26001984%2B%2B%2BUE5%2BRelease-5.2&UserID=c9f6c8e0423a95850992a2916998c4a2%7C7fa0bc95a3f444578e0de6c9637995fe%7C7ae49e04-9f0c-4c35-9b81-3bf25b34ac4e&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2023.12.07-22.53.28:178][327]LogHttp: Warning: 000004FF0E93D700: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B359FC41F-49DB-6C01-B0C0-84A19CD1AB8F%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.2.1-26001984%2B%2B%2BUE5%2BRelease-5.2&UserID=c9f6c8e0423a95850992a2916998c4a2%7C7fa0bc95a3f444578e0de6c9637995fe%7C7ae49e04-9f0c-4c35-9b81-3bf25b34ac4e&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: 0, actual payload size: 0
+[2023.12.07-22.53.28:179][327]LogHttp: Warning: 000004FF0E93D700: request failed, libcurl error: 56 (Failure when receiving data from the peer)
+[2023.12.07-22.53.28:179][327]LogHttp: Warning: 000004FF0E93D700: libcurl info message cache 0 (Found bundle for host: 0x4fdff960840 [serially])
+[2023.12.07-22.53.28:179][327]LogHttp: Warning: 000004FF0E93D700: libcurl info message cache 1 (Re-using existing connection #8 with host datarouter.ol.epicgames.com)
+[2023.12.07-22.53.28:179][327]LogHttp: Warning: 000004FF0E93D700: libcurl info message cache 2 (Connected to datarouter.ol.epicgames.com (3.215.96.87) port 443 (#8))
+[2023.12.07-22.53.28:179][327]LogHttp: Warning: 000004FF0E93D700: libcurl info message cache 3 (We are completely uploaded and fine)
+[2023.12.07-22.53.28:179][327]LogHttp: Warning: 000004FF0E93D700: libcurl info message cache 4 (OpenSSL SSL_read: Connection was reset, errno 10054)
+[2023.12.07-22.53.28:179][327]LogHttp: Warning: 000004FF0E93D700: libcurl info message cache 5 (Connection died, retrying a fresh connect (retry count: 1))
+[2023.12.07-22.53.28:179][327]LogHttp: Warning: 000004FF0E93D700: libcurl info message cache 6 (necessary data rewind wasn't possible)
+[2023.12.07-22.53.28:179][327]LogHttp: Warning: 000004FF0E93D700: libcurl info message cache 7 (Closing connection 8)
+[2023.12.07-22.53.28:179][327]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B359FC41F-49DB-6C01-B0C0-84A19CD1AB8F%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.2.1-26001984%2B%2B%2BUE5%2BRelease-5.2&UserID=c9f6c8e0423a95850992a2916998c4a2%7C7fa0bc95a3f444578e0de6c9637995fe%7C7ae49e04-9f0c-4c35-9b81-3bf25b34ac4e&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2023.12.07-22.53.38:847][359]LogHttp: Warning: 000004FF0E937D00: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B359FC41F-49DB-6C01-B0C0-84A19CD1AB8F%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.2.1-26001984%2B%2B%2BUE5%2BRelease-5.2&UserID=c9f6c8e0423a95850992a2916998c4a2%7C7fa0bc95a3f444578e0de6c9637995fe%7C7ae49e04-9f0c-4c35-9b81-3bf25b34ac4e&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: 0, actual payload size: 0
+[2023.12.07-22.53.38:847][359]LogHttp: Warning: 000004FF0E937D00: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2023.12.07-22.53.38:847][359]LogHttp: Warning: 000004FF0E937D00: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2023.12.07-22.53.38:848][359]LogHttp: Warning: 000004FF0E937D00: libcurl info message cache 1 (Closing connection 9)
+[2023.12.07-22.53.38:848][359]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B359FC41F-49DB-6C01-B0C0-84A19CD1AB8F%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.2.1-26001984%2B%2B%2BUE5%2BRelease-5.2&UserID=c9f6c8e0423a95850992a2916998c4a2%7C7fa0bc95a3f444578e0de6c9637995fe%7C7ae49e04-9f0c-4c35-9b81-3bf25b34ac4e&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2023.12.07-22.54.38:859][539]LogHttp: Warning: 000004FF0E938200: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B359FC41F-49DB-6C01-B0C0-84A19CD1AB8F%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.2.1-26001984%2B%2B%2BUE5%2BRelease-5.2&UserID=c9f6c8e0423a95850992a2916998c4a2%7C7fa0bc95a3f444578e0de6c9637995fe%7C7ae49e04-9f0c-4c35-9b81-3bf25b34ac4e&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: 0, actual payload size: 0
+[2023.12.07-22.54.38:860][539]LogHttp: Warning: 000004FF0E938200: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2023.12.07-22.54.38:860][539]LogHttp: Warning: 000004FF0E938200: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2023.12.07-22.54.38:860][539]LogHttp: Warning: 000004FF0E938200: libcurl info message cache 1 (Closing connection 10)
+[2023.12.07-22.54.38:860][539]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B359FC41F-49DB-6C01-B0C0-84A19CD1AB8F%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.2.1-26001984%2B%2B%2BUE5%2BRelease-5.2&UserID=c9f6c8e0423a95850992a2916998c4a2%7C7fa0bc95a3f444578e0de6c9637995fe%7C7ae49e04-9f0c-4c35-9b81-3bf25b34ac4e&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2023.12.07-22.55.09:192][629]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2023.12.07-22.55.11:200][635]LogUdpMessaging: Display: Added local interface '10.186.81.14' to multicast group '230.0.0.1:6666'
+[2023.12.07-23.02.22:514][929]LogDerivedDataCache: C:/Users/park1187/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:04.123 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 2556 files in 3665 folders with total size 237 MiB.
+[2023.12.07-23.07.01:195][608]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.12.07-23.07.01:209][608]LogContentBundle: [FirstPersonMap(Standalone)] Generating Streaming for 0 Content Bundles.
+[2023.12.07-23.07.01:227][608]LogWorldPartition: Display: GenerateStreaming started...
+[2023.12.07-23.07.01:228][608]LogWorldPartition: Display: GetPartitionedActors started...
+[2023.12.07-23.07.01:228][608]LogWorldPartition: Display: GetPartitionedActors took 34 us (total: 634 us)
+[2023.12.07-23.07.01:230][608]LogWorldPartition: Display: GenerateStreaming took 2 ms (total: 32 ms)
+[2023.12.07-23.07.01:230][608]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.12.07-23.07.01:231][608]PIE: New page: PIE session: FirstPersonMap (Dec 7, 2023, 1:07:01 PM)
+[2023.12.07-23.07.01:254][608]LogPlayLevel: Creating play world package: /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap
+[2023.12.07-23.07.01:305][608]LogPlayLevel: PIE: StaticDuplicateObject took: (0.051213s)
+[2023.12.07-23.07.01:305][608]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap to /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap (0.051274s)
+[2023.12.07-23.07.01:305][608]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.12.07-23.07.01:305][608]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.12.07-23.07.01:306][608]LogAIModule: Creating AISystem for world FirstPersonMap
+[2023.12.07-23.07.01:307][608]LogWorldPartition: ULevel::OnLevelLoaded(FirstPersonMap)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, bIsValidLevelInstance=0, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2023.12.07-23.07.01:307][608]LogWorldPartition: Display: WorldPartition initialize started...
+[2023.12.07-23.07.01:307][608]LogWorldPartition: UWorldPartition::Initialize(Asset=FirstPersonMap, IsEditor=0, bPIEWorldTravel=0 IsGame=0, IsCooking=0)
+[2023.12.07-23.07.01:319][608]LogContentBundle: [FirstPersonMap(Standalone)] Creating new contrainer.
+[2023.12.07-23.07.01:319][608]LogWorldPartition: Display: WorldPartition initialize took 12 ms (total: 1.09 sec)
+[2023.12.07-23.07.01:320][608]LogPlayLevel: PIE: World Init took: (0.015315s)
+[2023.12.07-23.07.01:344][608]LogUObjectHash: Compacting FUObjectHashTables data took   1.37ms
+[2023.12.07-23.07.01:345][608]LogAudio: Display: Creating Audio Device:                 Id: 11, Scope: Unique, Realtime: True
+[2023.12.07-23.07.01:345][608]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.12.07-23.07.01:345][608]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.12.07-23.07.01:345][608]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.12.07-23.07.01:345][608]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.12.07-23.07.01:345][608]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.12.07-23.07.01:345][608]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.12.07-23.07.01:345][608]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.12.07-23.07.01:345][608]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.12.07-23.07.01:346][608]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.12.07-23.07.01:346][608]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.12.07-23.07.01:346][608]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.12.07-23.07.01:348][608]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.12.07-23.07.01:457][608]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2023.12.07-23.07.01:459][608]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.12.07-23.07.01:459][608]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.12.07-23.07.01:459][608]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.12.07-23.07.01:459][608]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=11
+[2023.12.07-23.07.01:459][608]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=11
+[2023.12.07-23.07.01:461][608]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=11
+[2023.12.07-23.07.01:461][608]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=11
+[2023.12.07-23.07.01:461][608]LogInit: FAudioDevice initialized with ID 11.
+[2023.12.07-23.07.01:461][608]LogAudio: Display: Audio Device (ID: 11) registered with world 'FirstPersonMap'.
+[2023.12.07-23.07.01:461][608]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 11
+[2023.12.07-23.07.01:467][608]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2023.12.07-23.07.01:496][608]LogWorld: Bringing World /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap up for play (max tick rate 0) at 2023.12.07-18.07.01
+[2023.12.07-23.07.01:497][608]LogWorld: Bringing up level for play took: 0.029833
+[2023.12.07-23.07.01:500][608]LogOnline: OSS: Created online subsystem instance for: :Context_25
+[2023.12.07-23.07.01:504][608]PIE: Server logged in
+[2023.12.07-23.07.01:504][608]PIE: Play in editor total start time 0.295 seconds.
+[2023.12.07-23.07.01:531][608]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.12.07-23.07.01:531][608]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.12.07-23.07.01:532][608]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.12.07-23.07.01:532][608]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.12.07-23.07.01:532][608]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.12.07-23.07.01:533][608]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.12.07-23.07.01:534][608]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.12.07-23.07.01:911][609]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.12.07-23.07.01:912][609]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.12.07-23.07.01:912][609]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.12.07-23.07.01:912][609]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.12.07-23.07.01:913][609]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.12.07-23.07.01:913][609]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.12.07-23.07.01:914][609]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.12.07-23.07.01:915][609]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.12.07-23.07.06:678][764]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.12.07-23.07.07:684][812]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.12.07-23.07.10:704][938]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.12.07-23.07.12:712][ 21]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.12.07-23.07.15:738][127]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.12.07-23.07.16:757][162]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.12.07-23.07.18:804][235]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.12.07-23.07.18:805][235]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.12.07-23.07.21:851][337]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.12.07-23.07.21:851][337]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.12.07-23.07.22:879][370]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.12.07-23.07.36:073][855]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.12.07-23.07.36:074][855]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.12.07-23.07.38:103][918]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.12.07-23.07.39:112][950]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.12.07-23.07.39:113][950]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.12.07-23.07.39:114][950]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.12.07-23.07.41:171][ 11]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.12.07-23.07.41:172][ 11]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.12.07-23.07.41:173][ 11]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.12.07-23.07.41:173][ 11]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.12.07-23.07.42:185][ 41]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.12.07-23.07.43:199][ 70]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.12.07-23.07.43:199][ 70]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.12.07-23.07.43:199][ 70]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.12.07-23.07.45:219][135]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.12.07-23.07.47:114][206]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.12.07-23.07.47:114][206]LogWorld: BeginTearingDown for /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap
+[2023.12.07-23.07.47:114][206]LogWorld: UWorld::CleanupWorld for FirstPersonMap, bSessionEnded=true, bCleanupResources=true
+[2023.12.07-23.07.47:118][206]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.12.07-23.07.47:118][206]LogContentBundle: [FirstPersonMap(Standalone)] Deleting container.
+[2023.12.07-23.07.47:144][206]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.12.07-23.07.47:152][206]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.12.07-23.07.47:183][206]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.12.07-23.07.47:186][206]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 11
+[2023.12.07-23.07.47:186][206]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=11
+[2023.12.07-23.07.47:188][206]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=11
+[2023.12.07-23.07.47:208][206]LogUObjectHash: Compacting FUObjectHashTables data took   1.51ms
+[2023.12.07-23.07.47:350][206]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.12.07-23.07.47:371][207]LogPlayLevel: Display: Destroying online subsystem :Context_25
+[2023.12.07-23.07.47:398][207]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.12.07-23.07.47:980][209]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.12.07-23.07.48:102][209]LogUObjectHash: Compacting FUObjectHashTables data took   0.69ms
+[2023.12.07-23.07.48:129][209]LogUObjectHash: Compacting FUObjectHashTables data took   1.56ms
+[2023.12.07-23.07.48:158][209]LogUObjectHash: Compacting FUObjectHashTables data took   0.59ms
+[2023.12.07-23.07.48:189][209]LogFileHelpers: InternalPromptForCheckoutAndSave took 208 ms (total: 29.2 sec)
+[2023.12.07-23.10.22:470][300]LogWorld: UWorld::CleanupWorld for World_13, bSessionEnded=true, bCleanupResources=true
+[2023.12.07-23.10.22:470][300]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.12.07-23.10.22:481][300]LogWorld: UWorld::CleanupWorld for World_12, bSessionEnded=true, bCleanupResources=true
+[2023.12.07-23.10.22:481][300]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.12.07-23.10.22:520][300]LogViewport: Scene viewport resized to 1221x922, mode Windowed.
+[2023.12.07-23.10.22:571][301]LogViewport: Scene viewport resized to 1221x889, mode Windowed.
+[2023.12.07-23.10.23:089][326]LogWorld: UWorld::CleanupWorld for World_14, bSessionEnded=true, bCleanupResources=true
+[2023.12.07-23.10.23:089][326]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.12.07-23.10.23:138][326]LogViewport: Scene viewport resized to 1221x939, mode Windowed.
+[2023.12.07-23.10.23:204][327]LogViewport: Scene viewport resized to 1221x901, mode Windowed.
+[2023.12.07-23.10.23:244][328]LogViewport: Scene viewport resized to 1221x889, mode Windowed.
+[2023.12.07-23.11.50:998][ 57]LogSlate: Window 'Pick Parent Class for New Widget Blueprint' being destroyed
+[2023.12.07-23.11.51:025][ 57]LogContentBrowser: Deferred new asset file creation: NewWidgetBlueprint
+[2023.12.07-23.11.51:031][ 57]LogContentBrowser: Creating deferred item: NewWidgetBlueprint
+[2023.12.07-23.11.51:051][ 58]LogContentBrowser: Renaming the item being created (Deferred Item: NewWidgetBlueprint).
+[2023.12.07-23.11.55:751][257]LogContentBrowser: Attempting asset rename: NewWidgetBlueprint -> Damage
+[2023.12.07-23.11.55:760][257]LogContentBrowser: End creating deferred item NewWidgetBlueprint
+[2023.12.07-23.11.58:297][358]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/Damage.Damage
+[2023.12.07-23.11.58:297][358]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.12.07-23.11.58:297][358]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.12.07-23.11.58:329][358]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.12.07-23.11.58:329][358]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.12.07-23.12.24:648][511]LogUObjectHash: Compacting FUObjectHashTables data took   1.12ms
+[2023.12.07-23.12.24:653][511]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/FirstPerson/Maps/FirstPersonMap' took 0.032
+[2023.12.07-23.12.24:653][511]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Damage] ([2] browsable assets)...
+[2023.12.07-23.12.24:660][511]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/Damage.Damage]
+[2023.12.07-23.12.24:660][511]OBJ SavePackage: Finished generating thumbnails for package [/Game/Damage]
+[2023.12.07-23.12.24:660][511]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Damage" FILE="../../../../../../temp/cgt545_assignment_5_park1187/MyProject2/Saved/Autosaves/Game/Damage_Auto6.uasset" SILENT=false AUTOSAVING=true
+[2023.12.07-23.12.24:671][511]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Damage_Auto6
+[2023.12.07-23.12.24:671][511]LogSavePackage: Moving '../../../../../../temp/cgt545_assignment_5_park1187/MyProject2/Saved/Damage_Auto625CBEF3249C47D232EE7C893C0CE8211.tmp' to '../../../../../../temp/cgt545_assignment_5_park1187/MyProject2/Saved/Autosaves/Game/Damage_Auto6.uasset'
+[2023.12.07-23.12.24:676][511]LogFileHelpers: Auto-saving content packages took 0.023
+[2023.12.07-23.20.50:946][511]AssetReimport: New page: Outstanding source content changes 1:20:50 PM
+[2023.12.07-23.20.51:053][512]LogFactory: FactoryCreateFile: Texture with TextureFactory (0 0 C:/temp/cgt545_assignment_5_park1187/MyProject2/Content/Assets/Materials/7MXDvR-353810641.jpg)
+[2023.12.07-23.20.51:107][512]LogTexture: Display: Building textures: /Game/Assets/Materials/7MXDvR-353810641.7MXDvR-353810641 (TFO_AutoDXT, 1920x1080 x1x1x1) (Required Memory Estimate: 168.460938 MB), EncodeSpeed: Fast
+[2023.12.07-23.20.51:241][513]LogFactory: FactoryCreateFile: Texture with TextureFactory (0 0 C:/temp/cgt545_assignment_5_park1187/MyProject2/Content/Assets/Materials/solid-red-background.jpg)
+[2023.12.07-23.20.51:306][513]LogTexture: Display: Building textures: /Game/Assets/Materials/solid-red-background.solid-red-background (TFO_AutoDXT, 1920x1440 x1x1x1) (Required Memory Estimate: 198.34375 MB), EncodeSpeed: Fast
+[2023.12.07-23.20.51:393][514]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.12.07-23.20.51:572][514]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Materials/7MXDvR-353810641" FILE="../../../../../../temp/cgt545_assignment_5_park1187/MyProject2/Content/Assets/Materials/7MXDvR-353810641.uasset" SILENT=true
+[2023.12.07-23.20.51:576][514]LogSavePackage: Moving output files for package: /Game/Assets/Materials/7MXDvR-353810641
+[2023.12.07-23.20.51:576][514]LogSavePackage: Moving '../../../../../../temp/cgt545_assignment_5_park1187/MyProject2/Saved/7MXDvR-3538106419C6460524739809BF7B5C8925E0F5C9F.tmp' to '../../../../../../temp/cgt545_assignment_5_park1187/MyProject2/Content/Assets/Materials/7MXDvR-353810641.uasset'
+[2023.12.07-23.20.51:608][514]LogSavePackage: Moving output files for package: /Game/Assets/Materials/solid-red-background
+[2023.12.07-23.20.51:608][514]LogSavePackage: Moving '../../../../../../temp/cgt545_assignment_5_park1187/MyProject2/Saved/solid-red-backgroundAC38D6F34713FD4910AB6892B1B94A2B.tmp' to '../../../../../../temp/cgt545_assignment_5_park1187/MyProject2/Content/Assets/Materials/solid-red-background.uasset'
+[2023.12.07-23.20.51:642][514]LogFileHelpers: InternalPromptForCheckoutAndSave took 249 ms (total: 29.4 sec)
+[2023.12.07-23.20.51:725][515]AssetCheck: New page: Asset Save: multiple assets
+[2023.12.07-23.20.51:726][515]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Assets/Materials/solid-red-background.solid-red-background
+[2023.12.07-23.20.51:726][515]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Assets/Materials/7MXDvR-353810641.7MXDvR-353810641
+[2023.12.07-23.20.54:731][524]AssetReimport: Importing new asset /Game/Assets/Materials/7MXDvR-353810641.
+[2023.12.07-23.20.54:731][524]AssetReimport: Importing new asset /Game/Assets/Materials/solid-red-background.
+[2023.12.07-23.21.39:060][948]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.12.07-23.21.39:092][949]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.12.07-23.21.44:823][202]LogEditorTransaction: Undo Drag and Drop Widget
+[2023.12.07-23.21.44:955][202]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.12.07-23.22.02:328][778]LogSlate: Window 'Damage' being destroyed
+[2023.12.07-23.22.02:371][778]LogWorld: UWorld::CleanupWorld for World_16, bSessionEnded=true, bCleanupResources=true
+[2023.12.07-23.22.02:371][778]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.12.07-23.22.02:386][778]LogWorld: UWorld::CleanupWorld for World_15, bSessionEnded=true, bCleanupResources=true
+[2023.12.07-23.22.02:386][778]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.12.07-23.22.17:840][457]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/Damage.Damage
+[2023.12.07-23.22.17:840][457]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.12.07-23.22.17:841][457]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.12.07-23.22.17:871][457]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.12.07-23.22.17:871][457]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.12.07-23.22.44:510][751]LogUObjectHash: Compacting FUObjectHashTables data took   1.42ms
+[2023.12.07-23.22.44:514][751]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/FirstPerson/Maps/FirstPersonMap' took 0.032
+[2023.12.07-23.22.44:514][751]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/LevelPrototyping/Materials/MI_PrototypeGrid_TopDark] ([1] browsable assets)...
+[2023.12.07-23.22.44:514][751]OBJ SavePackage: Finished generating thumbnails for package [/Game/LevelPrototyping/Materials/MI_PrototypeGrid_TopDark]
+[2023.12.07-23.22.44:519][751]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/LevelPrototyping/Materials/MI_PrototypeGrid_TopDark_Auto7
+[2023.12.07-23.22.44:519][751]LogSavePackage: Moving '../../../../../../temp/cgt545_assignment_5_park1187/MyProject2/Saved/MI_PrototypeGrid_TopDark_Auto76FCA54E0457B98F62EC485830E4E8ECF.tmp' to '../../../../../../temp/cgt545_assignment_5_park1187/MyProject2/Saved/Autosaves/Game/LevelPrototyping/Materials/MI_PrototypeGrid_TopDark_Auto7.uasset'
+[2023.12.07-23.22.44:526][751]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Materials/_d_36855j_h_g1gUd018svc1fr8i6omieing_rtc078_Mat] ([1] browsable assets)...
+[2023.12.07-23.22.44:526][751]OBJ SavePackage: Finished generating thumbnails for package [/Game/Materials/_d_36855j_h_g1gUd018svc1fr8i6omieing_rtc078_Mat]
+[2023.12.07-23.22.44:531][751]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Materials/_d_36855j_h_g1gUd018svc1fr8i6omieing_rtc078_Mat_Auto7
+[2023.12.07-23.22.44:531][751]LogSavePackage: Moving '../../../../../../temp/cgt545_assignment_5_park1187/MyProject2/Saved/_d_36855j_h_g1gUd018svc1fr8i6omiA3848C144856AAD8B3C8819743E6EF61.tmp' to '../../../../../../temp/cgt545_assignment_5_park1187/MyProject2/Saved/Autosaves/Game/Materials/_d_36855j_h_g1gUd018svc1fr8i6omieing_rtc078_Mat_Auto7.uasset'
+[2023.12.07-23.22.44:537][751]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Materials/_d_36854j_i_91gUd018svc1oehjcrzo1ib4_rtc078_Mat] ([1] browsable assets)...
+[2023.12.07-23.22.44:537][751]OBJ SavePackage: Finished generating thumbnails for package [/Game/Materials/_d_36854j_i_91gUd018svc1oehjcrzo1ib4_rtc078_Mat]
+[2023.12.07-23.22.44:544][751]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Materials/_d_36854j_i_91gUd018svc1oehjcrzo1ib4_rtc078_Mat_Auto7
+[2023.12.07-23.22.44:544][751]LogSavePackage: Moving '../../../../../../temp/cgt545_assignment_5_park1187/MyProject2/Saved/_d_36854j_i_91gUd018svc1oehjcrzoCBD00C1F4D04AB930FBF549BD44A4D9B.tmp' to '../../../../../../temp/cgt545_assignment_5_park1187/MyProject2/Saved/Autosaves/Game/Materials/_d_36854j_i_91gUd018svc1oehjcrzo1ib4_rtc078_Mat_Auto7.uasset'
+[2023.12.07-23.22.44:551][751]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/StarterContent/Textures/T_CobbleStone_Pebble_Mat] ([1] browsable assets)...
+[2023.12.07-23.22.44:551][751]OBJ SavePackage: Finished generating thumbnails for package [/Game/StarterContent/Textures/T_CobbleStone_Pebble_Mat]
+[2023.12.07-23.22.44:555][751]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/StarterContent/Textures/T_CobbleStone_Pebble_Mat_Auto7
+[2023.12.07-23.22.44:555][751]LogSavePackage: Moving '../../../../../../temp/cgt545_assignment_5_park1187/MyProject2/Saved/T_CobbleStone_Pebble_Mat_Auto7F3019B824EBC3F8671D6E4B16C774966.tmp' to '../../../../../../temp/cgt545_assignment_5_park1187/MyProject2/Saved/Autosaves/Game/StarterContent/Textures/T_CobbleStone_Pebble_Mat_Auto7.uasset'
+[2023.12.07-23.22.44:563][751]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/LevelPrototyping/Materials/M_Solid_Inst] ([1] browsable assets)...
+[2023.12.07-23.22.44:563][751]OBJ SavePackage: Finished generating thumbnails for package [/Game/LevelPrototyping/Materials/M_Solid_Inst]
+[2023.12.07-23.22.44:567][751]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/LevelPrototyping/Materials/M_Solid_Inst_Auto7
+[2023.12.07-23.22.44:567][751]LogSavePackage: Moving '../../../../../../temp/cgt545_assignment_5_park1187/MyProject2/Saved/M_Solid_Inst_Auto74B3A70DC4785084F03DC129BAE914E5B.tmp' to '../../../../../../temp/cgt545_assignment_5_park1187/MyProject2/Saved/Autosaves/Game/LevelPrototyping/Materials/M_Solid_Inst_Auto7.uasset'
+[2023.12.07-23.22.44:573][751]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Damage] ([2] browsable assets)...
+[2023.12.07-23.22.44:580][751]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/Damage.Damage]
+[2023.12.07-23.22.44:580][751]OBJ SavePackage: Finished generating thumbnails for package [/Game/Damage]
+[2023.12.07-23.22.44:580][751]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Damage" FILE="../../../../../../temp/cgt545_assignment_5_park1187/MyProject2/Saved/Autosaves/Game/Damage_Auto7.uasset" SILENT=false AUTOSAVING=true
+[2023.12.07-23.22.44:586][751]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Damage_Auto7
+[2023.12.07-23.22.44:586][751]LogSavePackage: Moving '../../../../../../temp/cgt545_assignment_5_park1187/MyProject2/Saved/Damage_Auto77ADE86384006290025576CAEE2B4783E.tmp' to '../../../../../../temp/cgt545_assignment_5_park1187/MyProject2/Saved/Autosaves/Game/Damage_Auto7.uasset'
+[2023.12.07-23.22.44:590][751]LogFileHelpers: Auto-saving content packages took 0.076
+[2023.12.07-23.23.17:129][802]LogSlate: Last resort fallback font was requested. Font: '<unknown>', Character: '<unknown>'
+[2023.12.07-23.23.17:137][802]LogSlate: Took 0.005699 seconds to synchronously load lazily loaded font '../../../Engine/Content/SlateDebug/Fonts/LastResort.ttf' (5269K)
+[2023.12.07-23.23.19:272][901]LogEditorTransaction: Undo Drag and Drop Widget
+[2023.12.07-23.23.19:372][901]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.12.07-23.23.37:014][645]LogEditorTransaction: Undo Drag and Drop Widget
+[2023.12.07-23.23.37:115][645]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.12.07-23.23.37:577][654]LogEditorTransaction: Undo Drag and Drop Widget
+[2023.12.07-23.23.37:606][654]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.12.07-23.23.47:121][ 56]LogSlate: Window 'Color Picker' being destroyed
+[2023.12.07-23.23.52:216][277]LogEditorTransaction: Undo Drag and Drop Widget
+[2023.12.07-23.23.52:311][277]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.12.07-23.25.48:984][923]LogSlate: Window 'Damage' being destroyed
+[2023.12.07-23.25.49:027][923]LogWorld: UWorld::CleanupWorld for World_20, bSessionEnded=true, bCleanupResources=true
+[2023.12.07-23.25.49:027][923]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.12.07-23.25.49:040][923]LogWorld: UWorld::CleanupWorld for World_19, bSessionEnded=true, bCleanupResources=true
+[2023.12.07-23.25.49:040][923]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.12.07-23.25.52:456][ 91]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/Damage.Damage
+[2023.12.07-23.25.52:456][ 91]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.12.07-23.25.52:456][ 91]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.12.07-23.25.52:486][ 91]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.12.07-23.25.52:487][ 91]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.12.07-23.27.05:369][361]LogViewport: Scene viewport resized to 1215x774, mode Windowed.
+[2023.12.07-23.27.08:128][485]LogEditorTransaction: Undo Set Binding
+[2023.12.07-23.27.08:291][485]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.12.07-23.27.08:407][487]LogEditorTransaction: Undo Set Binding
+[2023.12.07-23.27.08:524][487]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.12.07-23.29.11:666][560]LogSlate: Window 'Color Picker' being destroyed
+[2023.12.07-23.29.56:034][488]LogSlate: Window 'Color Picker' being destroyed
