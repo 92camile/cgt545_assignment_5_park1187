@@ -7708,3 +7708,139 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2023.12.07-22.22.24:151][783]LogFileHelpers: InternalPromptForCheckoutAndSave took 151 ms (total: 28.4 sec)
 [2023.12.07-22.22.24:159][783]AssetCheck: New page: Asset Save: SkeletalMeshActor_UAID_105107B09B7695C301_1854429891
 [2023.12.07-22.22.24:159][783]LogContentValidation: Display: Validating /Script/Engine.SkeletalMeshActor /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.SkeletalMeshActor_UAID_105107B09B7695C301_1854429891
+[2023.12.07-22.24.38:169][811]Cmd: TRANSACTION UNDO
+[2023.12.07-22.24.38:170][811]LogEditorTransaction: Undo Move Elements
+[2023.12.07-22.24.38:276][811]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.12.07-22.24.50:754][351]LogAnimationCompression: Display: Building compressed animation data for AnimSequence /Game/AnimalVarietyPack/Wolf/Animations/ANIM_Wolf_GetHitFront.ANIM_Wolf_GetHitFront
+[2023.12.07-22.24.50:763][351]LogAnimationCompression: Display: Storing compressed animation data for /Game/AnimalVarietyPack/Wolf/Animations/ANIM_Wolf_GetHitFront.ANIM_Wolf_GetHitFront, at AnimationSequence/7646dafccd54825c96be77bdc3b9f1733cd1fde1
+[2023.12.07-22.24.50:858][351]LogTexture: Display: Building textures: /Game/AnimalVarietyPack/Wolf/Textures/T_Wolf_Specular.T_Wolf_Specular (TFO_AutoDXT, 32x32 x1x1x1) (Required Memory Estimate: 0.22392 MB), EncodeSpeed: Fast
+[2023.12.07-22.24.50:865][351]LogSkeletalMesh: Building Skeletal Mesh SK_Wolf...
+[2023.12.07-22.24.50:873][351]LogSkeletalMesh: Built Skeletal Mesh [0.01s] /Game/AnimalVarietyPack/Wolf/Meshes/SK_Wolf.SK_Wolf
+[2023.12.07-22.24.51:025][355]LogActorFactory: Actor Factory attempting to spawn AnimSequence /Game/AnimalVarietyPack/Wolf/Animations/ANIM_Wolf_GetHitFront.ANIM_Wolf_GetHitFront
+[2023.12.07-22.24.51:025][355]LogActorFactory: Actor Factory attempting to spawn AnimSequence /Game/AnimalVarietyPack/Wolf/Animations/ANIM_Wolf_GetHitFront.ANIM_Wolf_GetHitFront
+[2023.12.07-22.24.51:026][355]LogActorFactory: Actor Factory spawned SkeletalMesh /Game/AnimalVarietyPack/Wolf/Meshes/SK_Wolf.SK_Wolf as actor: SkeletalMeshActor /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.SkeletalMeshActor_2
+[2023.12.07-22.24.51:028][355]LogActorFactory: Actor Factory spawned SkeletalMesh /Game/AnimalVarietyPack/Wolf/Meshes/SK_Wolf.SK_Wolf as actor: SkeletalMeshActor /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.SkeletalMeshActor_2
+[2023.12.07-22.24.51:383][371]LogActorFactory: Actor Factory attempting to spawn AnimSequence /Game/AnimalVarietyPack/Wolf/Animations/ANIM_Wolf_GetHitFront.ANIM_Wolf_GetHitFront
+[2023.12.07-22.24.51:383][371]LogActorFactory: Actor Factory attempting to spawn AnimSequence /Game/AnimalVarietyPack/Wolf/Animations/ANIM_Wolf_GetHitFront.ANIM_Wolf_GetHitFront
+[2023.12.07-22.24.51:387][371]LogActorFactory: Actor Factory spawned SkeletalMesh /Game/AnimalVarietyPack/Wolf/Meshes/SK_Wolf.SK_Wolf as actor: SkeletalMeshActor /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.SkeletalMeshActor_UAID_105107B09B7697C301_2094078245
+[2023.12.07-22.24.51:389][371]LogActorFactory: Actor Factory spawned SkeletalMesh /Game/AnimalVarietyPack/Wolf/Meshes/SK_Wolf.SK_Wolf as actor: SkeletalMeshActor /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.SkeletalMeshActor_UAID_105107B09B7697C301_2094078245
+[2023.12.07-22.24.51:419][371]LogTexture: Display: Building textures: /Game/AnimalVarietyPack/Wolf/Textures/T_Wolf_OcclusionRoughnessMetallic.T_Wolf_OcclusionRoughnessMetallic (TFO_AutoDXT, 4096x4096 x1x1x1) (Required Memory Estimate: 1152.062484 MB), EncodeSpeed: Fast
+[2023.12.07-22.24.51:550][373]LogTexture: Display: Building textures: /Game/AnimalVarietyPack/Wolf/Textures/T_Wolf_BaseColorAlpha.T_Wolf_BaseColorAlpha (TFO_AutoDXT, 4096x4096 x1x1x1) (Required Memory Estimate: 1152.062484 MB), EncodeSpeed: Fast
+[2023.12.07-22.24.51:635][377]LogTexture: Display: Building textures: /Game/AnimalVarietyPack/Wolf/Textures/T_Wolf_Nml.T_Wolf_Nml (TFO_BC5, 4096x4096 x1x1x1) (Required Memory Estimate: 1152.062484 MB), EncodeSpeed: Fast
+[2023.12.07-22.24.52:604][421]LogShaderCompilers: Display: ================================================
+[2023.12.07-22.24.52:604][421]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2023.12.07-22.24.52:604][421]LogShaderCompilers: Display: Total job queries 414, among them cache hits 119 (28.74%)
+[2023.12.07-22.24.52:604][421]LogShaderCompilers: Display: Tracking 287 distinct input hashes that result in 196 distinct outputs (68.29%)
+[2023.12.07-22.24.52:604][421]LogShaderCompilers: Display: RAM used: 6.74 MiB of 1.60 GiB budget. Usage: 0.41%
+[2023.12.07-22.24.52:604][421]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2023.12.07-22.24.52:604][421]LogShaderCompilers: Display: Shaders Compiled: 287
+[2023.12.07-22.24.52:604][421]LogShaderCompilers: Display: Jobs assigned 295, completed 287 (97.29%)
+[2023.12.07-22.24.52:604][421]LogShaderCompilers: Display: Average time worker was idle: 136.90 s
+[2023.12.07-22.24.52:604][421]LogShaderCompilers: Display: Time job spent in pending queue: average 2.75 s, longest 15.21 s
+[2023.12.07-22.24.52:604][421]LogShaderCompilers: Display: Job execution time: average 1.96 s, max 6.36 s
+[2023.12.07-22.24.52:604][421]LogShaderCompilers: Display: Job life time (pending + execution): average 4.77 s, max 17.25
+[2023.12.07-22.24.52:604][421]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 91.05 s
+[2023.12.07-22.24.52:604][421]LogShaderCompilers: Display: Jobs were issued in 295 batches (only local compilation was used), average 1.00 jobs/batch
+[2023.12.07-22.24.52:604][421]LogShaderCompilers: Display: Average processing rate: 3.15 jobs/sec
+[2023.12.07-22.24.52:604][421]LogShaderCompilers: Display: Total thread time: 409.875 s
+[2023.12.07-22.24.52:604][421]LogShaderCompilers: Display: Total thread preprocess time: 19.729 s
+[2023.12.07-22.24.52:604][421]LogShaderCompilers: Display: Percentage time preprocessing: 4.81%
+[2023.12.07-22.24.52:604][421]LogShaderCompilers: Display: Effective parallelization: 4.50 (times faster than compiling all shaders on one thread). Compare with number of workers: 8
+[2023.12.07-22.24.52:604][421]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2023.12.07-22.24.52:604][421]LogShaderCompilers: Display:                         TBasePassPSFNoLightMapPolicySkylight (compiled    9 times, average 2.34 sec, max 5.16 sec, min 1.20 sec)
+[2023.12.07-22.24.52:604][421]LogShaderCompilers: Display:             TShadowDepthVSVertexShadowDepth_VirtualShadowMap (compiled    9 times, average 2.06 sec, max 5.54 sec, min 0.50 sec)
+[2023.12.07-22.24.52:604][421]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy (compiled   27 times, average 1.80 sec, max 5.78 sec, min 0.46 sec)
+[2023.12.07-22.24.52:604][421]LogShaderCompilers: Display:       TBasePassPSFCachedVolumeIndirectLightingPolicySkylight (compiled    7 times, average 1.76 sec, max 2.14 sec, min 1.30 sec)
+[2023.12.07-22.24.52:604][421]LogShaderCompilers: Display:                TBasePassPSFCachedPointIndirectLightingPolicy (compiled    7 times, average 1.75 sec, max 2.11 sec, min 1.32 sec)
+[2023.12.07-22.24.52:604][421]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2023.12.07-22.24.52:604][421]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 11.88% of total time (compiled   27 times, average 1.80 sec, max 5.78 sec, min 0.46 sec)
+[2023.12.07-22.24.52:604][421]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 11.64% of total time (compiled   28 times, average 1.70 sec, max 5.35 sec, min 0.44 sec)
+[2023.12.07-22.24.52:604][421]LogShaderCompilers: Display:                                                 FLumenCardVS - 7.78% of total time (compiled   24 times, average 1.33 sec, max 4.33 sec, min 0.40 sec)
+[2023.12.07-22.24.52:604][421]LogShaderCompilers: Display:                                          FLumenCardPS<false> - 6.93% of total time (compiled   24 times, average 1.18 sec, max 4.10 sec, min 0.27 sec)
+[2023.12.07-22.24.52:604][421]LogShaderCompilers: Display:                         TBasePassPSFNoLightMapPolicySkylight - 5.14% of total time (compiled    9 times, average 2.34 sec, max 5.16 sec, min 1.20 sec)
+[2023.12.07-22.24.52:604][421]LogShaderCompilers: Display: ================================================
+[2023.12.07-22.25.13:777][355]LogAnimationCompression: Display: Building compressed animation data for AnimSequence /Game/AnimalVarietyPack/Pig/Animations/ANIM_Pig_Chew.ANIM_Pig_Chew
+[2023.12.07-22.25.13:805][355]LogAnimationCompression: Display: Storing compressed animation data for /Game/AnimalVarietyPack/Pig/Animations/ANIM_Pig_Chew.ANIM_Pig_Chew, at AnimationSequence/a8332fc5520a3ca0b8db1865ce26da544039d478
+[2023.12.07-22.25.13:889][355]LogTexture: Display: Building textures: /Game/AnimalVarietyPack/Pig/Textures/T_Pig_Specular.T_Pig_Specular (TFO_AutoDXT, 32x32 x1x1x1) (Required Memory Estimate: 0.22392 MB), EncodeSpeed: Fast
+[2023.12.07-22.25.13:897][355]LogSkeletalMesh: Building Skeletal Mesh SK_Pig...
+[2023.12.07-22.25.13:911][355]LogSkeletalMesh: Built Skeletal Mesh [0.01s] /Game/AnimalVarietyPack/Pig/Meshes/SK_Pig.SK_Pig
+[2023.12.07-22.25.13:982][355]LogActorFactory: Actor Factory attempting to spawn AnimSequence /Game/AnimalVarietyPack/Pig/Animations/ANIM_Pig_Chew.ANIM_Pig_Chew
+[2023.12.07-22.25.13:982][355]LogActorFactory: Actor Factory attempting to spawn AnimSequence /Game/AnimalVarietyPack/Pig/Animations/ANIM_Pig_Chew.ANIM_Pig_Chew
+[2023.12.07-22.25.13:983][355]LogActorFactory: Actor Factory spawned SkeletalMesh /Game/AnimalVarietyPack/Pig/Meshes/SK_Pig.SK_Pig as actor: SkeletalMeshActor /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.SkeletalMeshActor_3
+[2023.12.07-22.25.13:986][355]LogActorFactory: Actor Factory spawned SkeletalMesh /Game/AnimalVarietyPack/Pig/Meshes/SK_Pig.SK_Pig as actor: SkeletalMeshActor /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.SkeletalMeshActor_3
+[2023.12.07-22.25.14:809][390]LogTexture: Display: Building textures: /Game/AnimalVarietyPack/Pig/Textures/T_Pig_OcclusionRoughnessMetallic.T_Pig_OcclusionRoughnessMetallic (TFO_AutoDXT, 4096x4096 x1x1x1) (Required Memory Estimate: 1152.062484 MB), EncodeSpeed: Fast
+[2023.12.07-22.25.14:943][393]LogTexture: Display: Building textures: /Game/AnimalVarietyPack/Pig/Textures/T_Pig_Nml.T_Pig_Nml (TFO_BC5, 4096x4096 x1x1x1) (Required Memory Estimate: 1152.062484 MB), EncodeSpeed: Fast
+[2023.12.07-22.25.15:345][403]LogTexture: Display: Building textures: /Game/AnimalVarietyPack/Pig/Textures/T_Pig_BaseColor.T_Pig_BaseColor (TFO_AutoDXT, 4096x4096 x1x1x1) (Required Memory Estimate: 1152.062484 MB), EncodeSpeed: Fast
+[2023.12.07-22.25.16:282][419]LogActorFactory: Actor Factory attempting to spawn AnimSequence /Game/AnimalVarietyPack/Pig/Animations/ANIM_Pig_Chew.ANIM_Pig_Chew
+[2023.12.07-22.25.16:283][419]LogActorFactory: Actor Factory attempting to spawn AnimSequence /Game/AnimalVarietyPack/Pig/Animations/ANIM_Pig_Chew.ANIM_Pig_Chew
+[2023.12.07-22.25.16:295][419]LogActorFactory: Actor Factory spawned SkeletalMesh /Game/AnimalVarietyPack/Pig/Meshes/SK_Pig.SK_Pig as actor: SkeletalMeshActor /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.SkeletalMeshActor_UAID_105107B09B7697C301_2118978246
+[2023.12.07-22.25.16:303][419]LogActorFactory: Actor Factory spawned SkeletalMesh /Game/AnimalVarietyPack/Pig/Meshes/SK_Pig.SK_Pig as actor: SkeletalMeshActor /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.SkeletalMeshActor_UAID_105107B09B7697C301_2118978246
+[2023.12.07-22.25.29:832][925]LogAnimationCompression: Display: Building compressed animation data for AnimSequence /Game/AnimalVarietyPack/DeerStagAndDoe/Animations/ANIM_DeerDoe_GetHit.ANIM_DeerDoe_GetHit
+[2023.12.07-22.25.29:843][925]LogAnimationCompression: Display: Storing compressed animation data for /Game/AnimalVarietyPack/DeerStagAndDoe/Animations/ANIM_DeerDoe_GetHit.ANIM_DeerDoe_GetHit, at AnimationSequence/7ddf72978afaff621ecede71d8debd498829a2a0
+[2023.12.07-22.25.29:946][925]LogTexture: Display: Building textures: /Game/AnimalVarietyPack/DeerStagAndDoe/Textures/T_Stag_Specular.T_Stag_Specular (TFO_AutoDXT, 32x32 x1x1x1) (Required Memory Estimate: 0.22392 MB), EncodeSpeed: Fast
+[2023.12.07-22.25.29:953][925]LogSkeletalMesh: Building Skeletal Mesh SK_DeerDoe...
+[2023.12.07-22.25.29:963][925]LogSkeletalMesh: Built Skeletal Mesh [0.01s] /Game/AnimalVarietyPack/DeerStagAndDoe/Meshes/SK_DeerDoe.SK_DeerDoe
+[2023.12.07-22.25.30:046][925]LogActorFactory: Actor Factory attempting to spawn AnimSequence /Game/AnimalVarietyPack/DeerStagAndDoe/Animations/ANIM_DeerDoe_GetHit.ANIM_DeerDoe_GetHit
+[2023.12.07-22.25.30:046][925]LogActorFactory: Actor Factory attempting to spawn AnimSequence /Game/AnimalVarietyPack/DeerStagAndDoe/Animations/ANIM_DeerDoe_GetHit.ANIM_DeerDoe_GetHit
+[2023.12.07-22.25.30:047][925]LogActorFactory: Actor Factory spawned SkeletalMesh /Game/AnimalVarietyPack/DeerStagAndDoe/Meshes/SK_DeerDoe.SK_DeerDoe as actor: SkeletalMeshActor /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.SkeletalMeshActor_4
+[2023.12.07-22.25.30:051][925]LogActorFactory: Actor Factory spawned SkeletalMesh /Game/AnimalVarietyPack/DeerStagAndDoe/Meshes/SK_DeerDoe.SK_DeerDoe as actor: SkeletalMeshActor /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.SkeletalMeshActor_4
+[2023.12.07-22.25.30:437][944]LogActorFactory: Actor Factory attempting to spawn AnimSequence /Game/AnimalVarietyPack/DeerStagAndDoe/Animations/ANIM_DeerDoe_GetHit.ANIM_DeerDoe_GetHit
+[2023.12.07-22.25.30:437][944]LogActorFactory: Actor Factory attempting to spawn AnimSequence /Game/AnimalVarietyPack/DeerStagAndDoe/Animations/ANIM_DeerDoe_GetHit.ANIM_DeerDoe_GetHit
+[2023.12.07-22.25.30:443][944]LogActorFactory: Actor Factory spawned SkeletalMesh /Game/AnimalVarietyPack/DeerStagAndDoe/Meshes/SK_DeerDoe.SK_DeerDoe as actor: SkeletalMeshActor /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.SkeletalMeshActor_UAID_105107B09B7697C301_2133132247
+[2023.12.07-22.25.30:449][944]LogActorFactory: Actor Factory spawned SkeletalMesh /Game/AnimalVarietyPack/DeerStagAndDoe/Meshes/SK_DeerDoe.SK_DeerDoe as actor: SkeletalMeshActor /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.SkeletalMeshActor_UAID_105107B09B7697C301_2133132247
+[2023.12.07-22.25.30:919][959]LogTexture: Display: Building textures: /Game/AnimalVarietyPack/DeerStagAndDoe/Textures/T_DeerDoe_OcclusionRoughnessMetallic.T_DeerDoe_OcclusionRoughnessMetallic (TFO_AutoDXT, 4096x4096 x1x1x1) (Required Memory Estimate: 1152.062484 MB), EncodeSpeed: Fast
+[2023.12.07-22.25.31:159][962]LogTexture: Display: Building textures: /Game/AnimalVarietyPack/DeerStagAndDoe/Textures/T_DeeDoe_Nml.T_DeeDoe_Nml (TFO_BC5, 4096x4096 x1x1x1) (Required Memory Estimate: 1152.062484 MB), EncodeSpeed: Fast
+[2023.12.07-22.25.31:465][966]LogTexture: Display: Building textures: /Game/AnimalVarietyPack/DeerStagAndDoe/Textures/T_DeeDoe_BaseColor.T_DeeDoe_BaseColor (TFO_AutoDXT, 4096x4096 x1x1x1) (Required Memory Estimate: 1152.062484 MB), EncodeSpeed: Fast
+[2023.12.07-22.25.45:438][419]LogAnimationCompression: Display: Building compressed animation data for AnimSequence /Game/AnimalVarietyPack/DeerStagAndDoe/Animations/ANIM_DeerDoe_GoToRest.ANIM_DeerDoe_GoToRest
+[2023.12.07-22.25.45:459][419]LogAnimationCompression: Display: Storing compressed animation data for /Game/AnimalVarietyPack/DeerStagAndDoe/Animations/ANIM_DeerDoe_GoToRest.ANIM_DeerDoe_GoToRest, at AnimationSequence/565597fa0434e08fb0d2f6f8b32b937d46838e3d
+[2023.12.07-22.25.45:597][421]LogActorFactory: Actor Factory attempting to spawn AnimSequence /Game/AnimalVarietyPack/DeerStagAndDoe/Animations/ANIM_DeerDoe_GoToRest.ANIM_DeerDoe_GoToRest
+[2023.12.07-22.25.45:597][421]LogActorFactory: Actor Factory attempting to spawn AnimSequence /Game/AnimalVarietyPack/DeerStagAndDoe/Animations/ANIM_DeerDoe_GoToRest.ANIM_DeerDoe_GoToRest
+[2023.12.07-22.25.45:598][421]LogActorFactory: Actor Factory spawned SkeletalMesh /Game/AnimalVarietyPack/DeerStagAndDoe/Meshes/SK_DeerDoe.SK_DeerDoe as actor: SkeletalMeshActor /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.SkeletalMeshActor_5
+[2023.12.07-22.25.45:601][421]LogActorFactory: Actor Factory spawned SkeletalMesh /Game/AnimalVarietyPack/DeerStagAndDoe/Meshes/SK_DeerDoe.SK_DeerDoe as actor: SkeletalMeshActor /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.SkeletalMeshActor_5
+[2023.12.07-22.25.45:859][432]LogActorFactory: Actor Factory attempting to spawn AnimSequence /Game/AnimalVarietyPack/DeerStagAndDoe/Animations/ANIM_DeerDoe_GoToRest.ANIM_DeerDoe_GoToRest
+[2023.12.07-22.25.45:859][432]LogActorFactory: Actor Factory attempting to spawn AnimSequence /Game/AnimalVarietyPack/DeerStagAndDoe/Animations/ANIM_DeerDoe_GoToRest.ANIM_DeerDoe_GoToRest
+[2023.12.07-22.25.45:863][432]LogActorFactory: Actor Factory spawned SkeletalMesh /Game/AnimalVarietyPack/DeerStagAndDoe/Meshes/SK_DeerDoe.SK_DeerDoe as actor: SkeletalMeshActor /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.SkeletalMeshActor_UAID_105107B09B7698C301_1074812424
+[2023.12.07-22.25.45:865][432]LogActorFactory: Actor Factory spawned SkeletalMesh /Game/AnimalVarietyPack/DeerStagAndDoe/Meshes/SK_DeerDoe.SK_DeerDoe as actor: SkeletalMeshActor /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.SkeletalMeshActor_UAID_105107B09B7698C301_1074812424
+[2023.12.07-22.25.57:993][972]LogAnimationCompression: Display: Building compressed animation data for AnimSequence /Game/AnimalVarietyPack/Crow/Animations/ANIM_Crow_Falling.ANIM_Crow_Falling
+[2023.12.07-22.25.58:020][972]LogAnimationCompression: Display: Storing compressed animation data for /Game/AnimalVarietyPack/Crow/Animations/ANIM_Crow_Falling.ANIM_Crow_Falling, at AnimationSequence/b29021594fcb5eaf471ac0bb18f14210d4ca53b2
+[2023.12.07-22.25.58:091][972]LogTexture: Display: Building textures: /Game/AnimalVarietyPack/Crow/Textures/T_Crow_Specular.T_Crow_Specular (TFO_AutoDXT, 32x32 x1x1x1) (Required Memory Estimate: 0.22392 MB), EncodeSpeed: Fast
+[2023.12.07-22.25.58:095][972]LogSkeletalMesh: Building Skeletal Mesh SK_Crow...
+[2023.12.07-22.25.58:096][972]LogSkeletalMesh: Built Skeletal Mesh [0.00s] /Game/AnimalVarietyPack/Crow/Meshes/SK_Crow.SK_Crow
+[2023.12.07-22.25.58:174][972]LogActorFactory: Actor Factory attempting to spawn AnimSequence /Game/AnimalVarietyPack/Crow/Animations/ANIM_Crow_Falling.ANIM_Crow_Falling
+[2023.12.07-22.25.58:174][972]LogActorFactory: Actor Factory attempting to spawn AnimSequence /Game/AnimalVarietyPack/Crow/Animations/ANIM_Crow_Falling.ANIM_Crow_Falling
+[2023.12.07-22.25.58:175][972]LogActorFactory: Actor Factory spawned SkeletalMesh /Game/AnimalVarietyPack/Crow/Meshes/SK_Crow.SK_Crow as actor: SkeletalMeshActor /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.SkeletalMeshActor_6
+[2023.12.07-22.25.58:178][972]LogActorFactory: Actor Factory spawned SkeletalMesh /Game/AnimalVarietyPack/Crow/Meshes/SK_Crow.SK_Crow as actor: SkeletalMeshActor /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.SkeletalMeshActor_6
+[2023.12.07-22.25.58:339][982]LogTexture: Display: Building textures: /Game/AnimalVarietyPack/Crow/Textures/T_Crow_OcclusionRoughnessMetallic.T_Crow_OcclusionRoughnessMetallic (TFO_AutoDXT, 2048x2048 x1x1x1) (Required Memory Estimate: 288.062484 MB), EncodeSpeed: Fast
+[2023.12.07-22.25.58:387][984]LogTexture: Display: Building textures: /Game/AnimalVarietyPack/Crow/Textures/T_Crow_BaseColor.T_Crow_BaseColor (TFO_AutoDXT, 2048x2048 x1x1x1) (Required Memory Estimate: 288.062484 MB), EncodeSpeed: Fast
+[2023.12.07-22.25.58:477][988]LogTexture: Display: Building textures: /Game/AnimalVarietyPack/Crow/Textures/T_Crow_Nml.T_Crow_Nml (TFO_BC5, 2048x2048 x1x1x1) (Required Memory Estimate: 381.562488 MB), EncodeSpeed: Fast
+[2023.12.07-22.25.58:593][989]LogActorFactory: Actor Factory attempting to spawn AnimSequence /Game/AnimalVarietyPack/Crow/Animations/ANIM_Crow_Falling.ANIM_Crow_Falling
+[2023.12.07-22.25.58:593][989]LogActorFactory: Actor Factory attempting to spawn AnimSequence /Game/AnimalVarietyPack/Crow/Animations/ANIM_Crow_Falling.ANIM_Crow_Falling
+[2023.12.07-22.25.58:605][989]LogActorFactory: Actor Factory spawned SkeletalMesh /Game/AnimalVarietyPack/Crow/Meshes/SK_Crow.SK_Crow as actor: SkeletalMeshActor /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.SkeletalMeshActor_UAID_105107B09B7698C301_1087546425
+[2023.12.07-22.25.58:611][989]LogActorFactory: Actor Factory spawned SkeletalMesh /Game/AnimalVarietyPack/Crow/Meshes/SK_Crow.SK_Crow as actor: SkeletalMeshActor /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.SkeletalMeshActor_UAID_105107B09B7698C301_1087546425
+[2023.12.07-22.26.01:111][ 44]LogAnimationCompression: Display: Building compressed animation data for AnimSequence /Game/AnimalVarietyPack/Crow/Animations/ANIM_Crow_Fly.ANIM_Crow_Fly
+[2023.12.07-22.26.01:152][ 44]LogAnimationCompression: Display: Storing compressed animation data for /Game/AnimalVarietyPack/Crow/Animations/ANIM_Crow_Fly.ANIM_Crow_Fly, at AnimationSequence/d5a5d0f20d56e1e9c1bc29455349907692e20662
+[2023.12.07-22.26.01:272][ 44]LogActorFactory: Actor Factory attempting to spawn AnimSequence /Game/AnimalVarietyPack/Crow/Animations/ANIM_Crow_Fly.ANIM_Crow_Fly
+[2023.12.07-22.26.01:273][ 44]LogActorFactory: Actor Factory attempting to spawn AnimSequence /Game/AnimalVarietyPack/Crow/Animations/ANIM_Crow_Fly.ANIM_Crow_Fly
+[2023.12.07-22.26.01:275][ 44]LogActorFactory: Actor Factory spawned SkeletalMesh /Game/AnimalVarietyPack/Crow/Meshes/SK_Crow.SK_Crow as actor: SkeletalMeshActor /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.SkeletalMeshActor_7
+[2023.12.07-22.26.01:280][ 44]LogActorFactory: Actor Factory spawned SkeletalMesh /Game/AnimalVarietyPack/Crow/Meshes/SK_Crow.SK_Crow as actor: SkeletalMeshActor /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.SkeletalMeshActor_7
+[2023.12.07-22.26.07:685][246]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.12.07-22.26.07:848][246]LogUObjectHash: Compacting FUObjectHashTables data took   1.49ms
+[2023.12.07-22.26.07:887][246]LogUObjectHash: Compacting FUObjectHashTables data took   1.72ms
+[2023.12.07-22.26.07:922][246]LogUObjectHash: Compacting FUObjectHashTables data took   0.77ms
+[2023.12.07-22.26.07:931][246]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/6/3J/MQH1XGOG86N5G7A8CP0JRD
+[2023.12.07-22.26.07:931][246]LogSavePackage: Moving '../../../../../../temp/cgt545_assignment_5_park1187/MyProject2/Saved/MQH1XGOG86N5G7A8CP0JRD80C3DB204398BEB234C8D19B5B6E52E3.tmp' to '../../../../../../temp/cgt545_assignment_5_park1187/MyProject2/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/6/3J/MQH1XGOG86N5G7A8CP0JRD.uasset'
+[2023.12.07-22.26.07:949][246]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/3/1F/ABRXYP4ZT46OLR0NDBIO83
+[2023.12.07-22.26.07:949][246]LogSavePackage: Moving '../../../../../../temp/cgt545_assignment_5_park1187/MyProject2/Saved/ABRXYP4ZT46OLR0NDBIO83F166A7744FB6596D983B0A9073039BF3.tmp' to '../../../../../../temp/cgt545_assignment_5_park1187/MyProject2/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/3/1F/ABRXYP4ZT46OLR0NDBIO83.uasset'
+[2023.12.07-22.26.07:967][246]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/D/07/ALZ5PAWVXKC2LHDGJC4GND
+[2023.12.07-22.26.07:967][246]LogSavePackage: Moving '../../../../../../temp/cgt545_assignment_5_park1187/MyProject2/Saved/ALZ5PAWVXKC2LHDGJC4GND88A012B34ACC2D802430C38BA3574816.tmp' to '../../../../../../temp/cgt545_assignment_5_park1187/MyProject2/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/D/07/ALZ5PAWVXKC2LHDGJC4GND.uasset'
+[2023.12.07-22.26.07:984][246]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/C/F1/7GLP9BSQSK7J58WTIE77DU
+[2023.12.07-22.26.07:984][246]LogSavePackage: Moving '../../../../../../temp/cgt545_assignment_5_park1187/MyProject2/Saved/7GLP9BSQSK7J58WTIE77DU9588A1D14252AA4C3E7A308856E7016B.tmp' to '../../../../../../temp/cgt545_assignment_5_park1187/MyProject2/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/C/F1/7GLP9BSQSK7J58WTIE77DU.uasset'
+[2023.12.07-22.26.08:003][246]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/D/57/GYR560JDLXAF4DUHZGW14J
+[2023.12.07-22.26.08:004][246]LogSavePackage: Moving '../../../../../../temp/cgt545_assignment_5_park1187/MyProject2/Saved/GYR560JDLXAF4DUHZGW14J67FDE9654DCFFCA6D8A310837F539638.tmp' to '../../../../../../temp/cgt545_assignment_5_park1187/MyProject2/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/D/57/GYR560JDLXAF4DUHZGW14J.uasset'
+[2023.12.07-22.26.08:023][246]LogFileHelpers: InternalPromptForCheckoutAndSave took 338 ms (total: 28.7 sec)
+[2023.12.07-22.26.08:034][246]AssetCheck: New page: Asset Save: multiple assets
+[2023.12.07-22.26.08:034][246]LogContentValidation: Display: Validating /Script/Engine.SkeletalMeshActor /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.SkeletalMeshActor_UAID_105107B09B7698C301_1087546425
+[2023.12.07-22.26.08:034][246]LogContentValidation: Display: Validating /Script/Engine.SkeletalMeshActor /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.SkeletalMeshActor_UAID_105107B09B7698C301_1074812424
+[2023.12.07-22.26.08:034][246]LogContentValidation: Display: Validating /Script/Engine.SkeletalMeshActor /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.SkeletalMeshActor_UAID_105107B09B7697C301_2133132247
+[2023.12.07-22.26.08:034][246]LogContentValidation: Display: Validating /Script/Engine.SkeletalMeshActor /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.SkeletalMeshActor_UAID_105107B09B7697C301_2118978246
+[2023.12.07-22.26.08:034][246]LogContentValidation: Display: Validating /Script/Engine.SkeletalMeshActor /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.SkeletalMeshActor_UAID_105107B09B7697C301_2094078245
