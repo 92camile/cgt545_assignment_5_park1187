@@ -5541,3 +5541,90 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2023.12.07-21.29.37:105][227]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_UAID_105107B09B7694C301_1838739697
 [2023.12.07-21.29.37:105][227]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_UAID_105107B09B7694C301_1847434698
 [2023.12.07-21.29.37:105][227]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_UAID_105107B09B7694C301_1957211699
+[2023.12.07-21.30.05:893][ 79]LogSlate: Window 'BasicShapeMaterial' being destroyed
+[2023.12.07-21.30.05:943][ 79]LogWorld: UWorld::CleanupWorld for World_5, bSessionEnded=true, bCleanupResources=true
+[2023.12.07-21.30.05:944][ 79]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.12.07-21.30.10:237][302]Cmd: EDIT COPY
+[2023.12.07-21.30.10:409][311]Cmd: EDIT PASTE
+[2023.12.07-21.30.10:471][311]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.12.07-21.30.14:812][532]Cmd: EDIT COPY
+[2023.12.07-21.30.15:026][543]Cmd: EDIT PASTE
+[2023.12.07-21.30.15:115][543]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.12.07-21.30.18:204][695]Cmd: EDIT COPY
+[2023.12.07-21.30.18:415][706]Cmd: EDIT PASTE
+[2023.12.07-21.30.18:476][706]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.12.07-21.30.22:641][910]Cmd: EDIT COPY
+[2023.12.07-21.30.22:812][919]Cmd: EDIT PASTE
+[2023.12.07-21.30.22:878][919]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.12.07-21.30.26:502][ 99]Cmd: EDIT COPY
+[2023.12.07-21.30.26:697][109]Cmd: EDIT PASTE
+[2023.12.07-21.30.26:762][109]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.12.07-21.30.29:536][244]Cmd: EDIT COPY
+[2023.12.07-21.30.29:727][254]Cmd: EDIT PASTE
+[2023.12.07-21.30.29:795][254]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.12.07-21.30.32:836][402]Cmd: EDIT COPY
+[2023.12.07-21.30.33:002][410]Cmd: EDIT PASTE
+[2023.12.07-21.30.33:070][410]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.12.07-21.30.35:822][543]Cmd: EDIT COPY
+[2023.12.07-21.30.36:031][553]Cmd: EDIT PASTE
+[2023.12.07-21.30.36:129][553]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.12.07-21.30.39:144][700]Cmd: EDIT COPY
+[2023.12.07-21.30.39:290][707]Cmd: EDIT PASTE
+[2023.12.07-21.30.39:358][707]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.12.07-21.30.46:276][ 50]Cmd: EDIT COPY
+[2023.12.07-21.30.46:430][ 58]Cmd: EDIT PASTE
+[2023.12.07-21.30.46:531][ 58]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.12.07-21.30.52:095][334]Cmd: EDIT COPY
+[2023.12.07-21.30.52:297][342]Cmd: EDIT PASTE
+[2023.12.07-21.30.52:377][342]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.12.07-21.30.58:731][653]Cmd: EDIT COPY
+[2023.12.07-21.30.58:860][659]Cmd: EDIT PASTE
+[2023.12.07-21.30.58:940][659]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.12.07-21.31.02:245][823]Cmd: EDIT COPY
+[2023.12.07-21.31.02:417][831]Cmd: EDIT PASTE
+[2023.12.07-21.31.02:522][831]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.12.07-21.31.09:489][172]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.12.07-21.31.09:613][172]LogUObjectHash: Compacting FUObjectHashTables data took   0.84ms
+[2023.12.07-21.31.09:633][172]LogUObjectHash: Compacting FUObjectHashTables data took   0.58ms
+[2023.12.07-21.31.09:648][172]LogUObjectHash: Compacting FUObjectHashTables data took   0.42ms
+[2023.12.07-21.31.09:655][172]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/8/EJ/5CH66ILNZA7LHU2RXTUY1J
+[2023.12.07-21.31.09:656][172]LogSavePackage: Moving '../../../../../../temp/cgt545_assignment_5_park1187/MyProject2/Saved/5CH66ILNZA7LHU2RXTUY1JCBA27AEB4D69C2782D69C5B24D5FF5DA.tmp' to '../../../../../../temp/cgt545_assignment_5_park1187/MyProject2/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/8/EJ/5CH66ILNZA7LHU2RXTUY1J.uasset'
+[2023.12.07-21.31.09:671][172]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/6/WO/WHP6ZRXVBFZ87YOEHUJBWW
+[2023.12.07-21.31.09:671][172]LogSavePackage: Moving '../../../../../../temp/cgt545_assignment_5_park1187/MyProject2/Saved/WHP6ZRXVBFZ87YOEHUJBWW6CE67EE64367C87055C48D96CC7C6B62.tmp' to '../../../../../../temp/cgt545_assignment_5_park1187/MyProject2/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/6/WO/WHP6ZRXVBFZ87YOEHUJBWW.uasset'
+[2023.12.07-21.31.09:688][172]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/D/OC/BMHPB53NPY5COKFATSGVQV
+[2023.12.07-21.31.09:688][172]LogSavePackage: Moving '../../../../../../temp/cgt545_assignment_5_park1187/MyProject2/Saved/BMHPB53NPY5COKFATSGVQVBD5C12D74299AD7C0ACD058527E2CF7B.tmp' to '../../../../../../temp/cgt545_assignment_5_park1187/MyProject2/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/D/OC/BMHPB53NPY5COKFATSGVQV.uasset'
+[2023.12.07-21.31.09:704][172]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/0/CR/OLFHURVQZIUT0RJ64FXHSG
+[2023.12.07-21.31.09:704][172]LogSavePackage: Moving '../../../../../../temp/cgt545_assignment_5_park1187/MyProject2/Saved/OLFHURVQZIUT0RJ64FXHSG6943727A42C4E416CB34EEAB2ABA3B4A.tmp' to '../../../../../../temp/cgt545_assignment_5_park1187/MyProject2/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/0/CR/OLFHURVQZIUT0RJ64FXHSG.uasset'
+[2023.12.07-21.31.09:719][172]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/0/DD/0GS90Z96QIJ1ANFHY0GGOP
+[2023.12.07-21.31.09:719][172]LogSavePackage: Moving '../../../../../../temp/cgt545_assignment_5_park1187/MyProject2/Saved/0GS90Z96QIJ1ANFHY0GGOP0DFBBB164B503002EF270E8EC2F66778.tmp' to '../../../../../../temp/cgt545_assignment_5_park1187/MyProject2/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/0/DD/0GS90Z96QIJ1ANFHY0GGOP.uasset'
+[2023.12.07-21.31.09:734][172]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/6/BH/3VGGSHUGD3E10KQL4KDCYO
+[2023.12.07-21.31.09:734][172]LogSavePackage: Moving '../../../../../../temp/cgt545_assignment_5_park1187/MyProject2/Saved/3VGGSHUGD3E10KQL4KDCYO8DB332184F371DCD720C37B56AB29040.tmp' to '../../../../../../temp/cgt545_assignment_5_park1187/MyProject2/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/6/BH/3VGGSHUGD3E10KQL4KDCYO.uasset'
+[2023.12.07-21.31.09:748][172]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/8/7Q/1ACONB7NI2YCFJ23XRM6HU
+[2023.12.07-21.31.09:748][172]LogSavePackage: Moving '../../../../../../temp/cgt545_assignment_5_park1187/MyProject2/Saved/1ACONB7NI2YCFJ23XRM6HUAA1903EC4F4F02BB0208CE86D3065A3C.tmp' to '../../../../../../temp/cgt545_assignment_5_park1187/MyProject2/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/8/7Q/1ACONB7NI2YCFJ23XRM6HU.uasset'
+[2023.12.07-21.31.09:763][172]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/A/JC/H4DOTKG9DJAUTTJ8SCBU2G
+[2023.12.07-21.31.09:763][172]LogSavePackage: Moving '../../../../../../temp/cgt545_assignment_5_park1187/MyProject2/Saved/H4DOTKG9DJAUTTJ8SCBU2GCBC09200484660E972A908A3A8E514CC.tmp' to '../../../../../../temp/cgt545_assignment_5_park1187/MyProject2/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/A/JC/H4DOTKG9DJAUTTJ8SCBU2G.uasset'
+[2023.12.07-21.31.09:778][172]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/0/VM/RAKFCM5KWICBFAD1LHOJ1S
+[2023.12.07-21.31.09:778][172]LogSavePackage: Moving '../../../../../../temp/cgt545_assignment_5_park1187/MyProject2/Saved/RAKFCM5KWICBFAD1LHOJ1S9E01843E4F301F0136C0E3B6241306AB.tmp' to '../../../../../../temp/cgt545_assignment_5_park1187/MyProject2/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/0/VM/RAKFCM5KWICBFAD1LHOJ1S.uasset'
+[2023.12.07-21.31.09:793][172]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/3/DK/X4ICRGV348PD4SRZKY6V9F
+[2023.12.07-21.31.09:793][172]LogSavePackage: Moving '../../../../../../temp/cgt545_assignment_5_park1187/MyProject2/Saved/X4ICRGV348PD4SRZKY6V9FF9B55785483A6A660593A39C62EFB5AC.tmp' to '../../../../../../temp/cgt545_assignment_5_park1187/MyProject2/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/3/DK/X4ICRGV348PD4SRZKY6V9F.uasset'
+[2023.12.07-21.31.09:809][172]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/0/S3/DDYJXA9TNR7CBCEQ44EZ2N
+[2023.12.07-21.31.09:810][172]LogSavePackage: Moving '../../../../../../temp/cgt545_assignment_5_park1187/MyProject2/Saved/DDYJXA9TNR7CBCEQ44EZ2N6C7BC6804AE5151D267B4AA7887CAF44.tmp' to '../../../../../../temp/cgt545_assignment_5_park1187/MyProject2/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/0/S3/DDYJXA9TNR7CBCEQ44EZ2N.uasset'
+[2023.12.07-21.31.09:824][172]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/E/IN/AMC3NM34I7NRIH89N9YSAL
+[2023.12.07-21.31.09:824][172]LogSavePackage: Moving '../../../../../../temp/cgt545_assignment_5_park1187/MyProject2/Saved/AMC3NM34I7NRIH89N9YSAL2FCF93EB40AB4F4476BAD180B3A5BD0B.tmp' to '../../../../../../temp/cgt545_assignment_5_park1187/MyProject2/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/E/IN/AMC3NM34I7NRIH89N9YSAL.uasset'
+[2023.12.07-21.31.09:838][172]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/4/D6/1C3KYDA92L8UMUSZRCWK2U
+[2023.12.07-21.31.09:838][172]LogSavePackage: Moving '../../../../../../temp/cgt545_assignment_5_park1187/MyProject2/Saved/1C3KYDA92L8UMUSZRCWK2U06BD6DE546E3B34FBCB5FE8168951B18.tmp' to '../../../../../../temp/cgt545_assignment_5_park1187/MyProject2/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/4/D6/1C3KYDA92L8UMUSZRCWK2U.uasset'
+[2023.12.07-21.31.09:870][172]LogFileHelpers: InternalPromptForCheckoutAndSave took 381 ms (total: 27.4 sec)
+[2023.12.07-21.31.09:874][172]AssetCheck: New page: Asset Save: multiple assets
+[2023.12.07-21.31.09:874][172]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_UAID_105107B09B7694C301_2070351709
+[2023.12.07-21.31.09:874][172]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_UAID_105107B09B7694C301_2086338712
+[2023.12.07-21.31.09:874][172]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_UAID_105107B09B7694C301_2082781711
+[2023.12.07-21.31.09:874][172]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_UAID_105107B09B7694C301_2076218710
+[2023.12.07-21.31.09:874][172]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_UAID_105107B09B7694C301_2063211708
+[2023.12.07-21.31.09:874][172]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_UAID_105107B09B7694C301_2059952707
+[2023.12.07-21.31.09:874][172]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_UAID_105107B09B7694C301_2056923706
+[2023.12.07-21.31.09:874][172]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_UAID_105107B09B7694C301_2053648705
+[2023.12.07-21.31.09:874][172]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_UAID_105107B09B7694C301_2050618704
+[2023.12.07-21.31.09:874][172]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_UAID_105107B09B7694C301_2046733703
+[2023.12.07-21.31.09:874][172]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_UAID_105107B09B7694C301_2042335702
+[2023.12.07-21.31.09:874][172]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_UAID_105107B09B7694C301_2038947701
+[2023.12.07-21.31.09:874][172]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_UAID_105107B09B7694C301_2034329700
