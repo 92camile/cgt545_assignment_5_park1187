@@ -4910,3 +4910,127 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2023.12.07-21.14.50:386][994]LogFileHelpers: InternalPromptForCheckoutAndSave took 167 ms (total: 8.60 sec)
 [2023.12.07-21.14.50:389][994]AssetCheck: New page: Asset Save: BPC_Door_Overlap_C_UAID_105107B09B76FDBD01_1645996271
 [2023.12.07-21.14.50:389][994]LogContentValidation: Display: Validating /Game/Blueprints/Doors/BPC_Door_Overlap.BPC_Door_Overlap_C /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.BPC_Door_Overlap_C_UAID_105107B09B76FDBD01_1645996271
+[2023.12.07-21.21.24:268][615]LogTexture: Display: Building textures: /Game/LUSH_StylizedEnvironmentSet/_SharedAssets/T_Leaves_01.T_Leaves_01 (TFO_AutoDXT, 512x512 x1x1x1) (Required Memory Estimate: 45.145823 MB), EncodeSpeed: Fast
+[2023.12.07-21.21.24:273][615]LogTexture: Display: Building textures: /Game/LUSH_StylizedEnvironmentSet/_SharedAssets/Textures/T_Default_N.T_Default_N (TFO_BC5, 1024x1024 x1x1x1) (Required Memory Estimate: 213.562488 MB), EncodeSpeed: Fast
+[2023.12.07-21.21.24:273][615]LogTexture: Display: Building textures: /Game/LUSH_StylizedEnvironmentSet/_SharedAssets/Textures/T_Default_D.T_Default_D (TFO_AutoDXT, 1024x1024 x1x1x1) (Required Memory Estimate: 124.145823 MB), EncodeSpeed: Fast
+[2023.12.07-21.21.24:280][615]LogStaticMesh: Display: Building static mesh SM_FlowerClump_B_01...
+[2023.12.07-21.21.24:299][615]LogTexture: Display: Building textures: /Game/LUSH_StylizedEnvironmentSet/Foliage/Flowers/Textures/T_Flowers_01_D.T_Flowers_01_D (TFO_AutoDXT, 1024x1024 x1x1x1) (Required Memory Estimate: 124.145823 MB), EncodeSpeed: Fast
+[2023.12.07-21.21.24:349][615]LogStaticMesh: Built static mesh [0.07s] /Game/LUSH_StylizedEnvironmentSet/Foliage/Flowers/SM_FlowerClump_B_01.SM_FlowerClump_B_01
+[2023.12.07-21.21.24:374][615]LogTexture: Display: Building textures: /Game/LUSH_StylizedEnvironmentSet/Foliage/Trees/Textures/T_BananaLeaf_02_RAOH.T_BananaLeaf_02_RAOH (TFO_AutoDXT, 1024x1024 x1x1x1) (Required Memory Estimate: 128.145823 MB), EncodeSpeed: Fast
+[2023.12.07-21.21.24:400][615]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/LUSH_StylizedEnvironmentSet/Foliage/Flowers/SM_FlowerClump_B_01.SM_FlowerClump_B_01
+[2023.12.07-21.21.24:400][615]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/LUSH_StylizedEnvironmentSet/Foliage/Flowers/SM_FlowerClump_B_01.SM_FlowerClump_B_01
+[2023.12.07-21.21.24:404][615]LogActorFactory: Actor Factory spawned StaticMesh /Game/LUSH_StylizedEnvironmentSet/Foliage/Flowers/SM_FlowerClump_B_01.SM_FlowerClump_B_01 as actor: StaticMeshActor /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_UAID_105107B09B7694C301_1508320679
+[2023.12.07-21.21.25:332][657]LogShaderCompilers: Display: ================================================
+[2023.12.07-21.21.25:332][657]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2023.12.07-21.21.25:332][657]LogShaderCompilers: Display: Total job queries 46, among them cache hits 0 (0.00%)
+[2023.12.07-21.21.25:332][657]LogShaderCompilers: Display: Tracking 38 distinct input hashes that result in 19 distinct outputs (50.00%)
+[2023.12.07-21.21.25:332][657]LogShaderCompilers: Display: RAM used: 894.62 KiB of 1.60 GiB budget. Usage: 0.05%
+[2023.12.07-21.21.25:332][657]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2023.12.07-21.21.25:332][657]LogShaderCompilers: Display: Shaders Compiled: 38
+[2023.12.07-21.21.25:332][657]LogShaderCompilers: Display: Jobs assigned 46, completed 38 (82.61%)
+[2023.12.07-21.21.25:332][657]LogShaderCompilers: Display: Average time worker was idle: 245.70 s
+[2023.12.07-21.21.25:332][657]LogShaderCompilers: Display: Time job spent in pending queue: average 0.70 s, longest 2.38 s
+[2023.12.07-21.21.25:332][657]LogShaderCompilers: Display: Job execution time: average 1.63 s, max 2.35 s
+[2023.12.07-21.21.25:332][657]LogShaderCompilers: Display: Job life time (pending + execution): average 2.44 s, max 3.94
+[2023.12.07-21.21.25:332][657]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 9.57 s
+[2023.12.07-21.21.25:332][657]LogShaderCompilers: Display: Jobs were issued in 46 batches (only local compilation was used), average 1.00 jobs/batch
+[2023.12.07-21.21.25:332][657]LogShaderCompilers: Display: Average processing rate: 3.97 jobs/sec
+[2023.12.07-21.21.25:332][657]LogShaderCompilers: Display: Total thread time: 50.168 s
+[2023.12.07-21.21.25:332][657]LogShaderCompilers: Display: Total thread preprocess time: 2.29 s
+[2023.12.07-21.21.25:332][657]LogShaderCompilers: Display: Percentage time preprocessing: 4.57%
+[2023.12.07-21.21.25:332][657]LogShaderCompilers: Display: Effective parallelization: 5.24 (times faster than compiling all shaders on one thread). Compare with number of workers: 8
+[2023.12.07-21.21.25:332][657]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2023.12.07-21.21.25:332][657]LogShaderCompilers: Display:       TBasePassPSFCachedVolumeIndirectLightingPolicySkylight (compiled    2 times, average 1.90 sec, max 1.92 sec, min 1.88 sec)
+[2023.12.07-21.21.25:332][657]LogShaderCompilers: Display:                TBasePassPSFCachedPointIndirectLightingPolicy (compiled    2 times, average 1.89 sec, max 1.93 sec, min 1.85 sec)
+[2023.12.07-21.21.25:332][657]LogShaderCompilers: Display:               TBasePassPSFCachedVolumeIndirectLightingPolicy (compiled    2 times, average 1.85 sec, max 1.87 sec, min 1.84 sec)
+[2023.12.07-21.21.25:332][657]LogShaderCompilers: Display:                         TBasePassPSFNoLightMapPolicySkylight (compiled    2 times, average 1.85 sec, max 1.88 sec, min 1.81 sec)
+[2023.12.07-21.21.25:332][657]LogShaderCompilers: Display:        TBasePassPSFCachedPointIndirectLightingPolicySkylight (compiled    2 times, average 1.63 sec, max 1.65 sec, min 1.61 sec)
+[2023.12.07-21.21.25:332][657]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2023.12.07-21.21.25:333][657]LogShaderCompilers: Display:       TBasePassPSFCachedVolumeIndirectLightingPolicySkylight - 7.58% of total time (compiled    2 times, average 1.90 sec, max 1.92 sec, min 1.88 sec)
+[2023.12.07-21.21.25:333][657]LogShaderCompilers: Display:                TBasePassPSFCachedPointIndirectLightingPolicy - 7.54% of total time (compiled    2 times, average 1.89 sec, max 1.93 sec, min 1.85 sec)
+[2023.12.07-21.21.25:333][657]LogShaderCompilers: Display:               TBasePassPSFCachedVolumeIndirectLightingPolicy - 7.39% of total time (compiled    2 times, average 1.85 sec, max 1.87 sec, min 1.84 sec)
+[2023.12.07-21.21.25:333][657]LogShaderCompilers: Display:                         TBasePassPSFNoLightMapPolicySkylight - 7.37% of total time (compiled    2 times, average 1.85 sec, max 1.88 sec, min 1.81 sec)
+[2023.12.07-21.21.25:333][657]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 7.28% of total time (compiled    3 times, average 1.22 sec, max 1.67 sec, min 0.45 sec)
+[2023.12.07-21.21.25:333][657]LogShaderCompilers: Display: ================================================
+[2023.12.07-21.21.26:141][684]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/LUSH_StylizedEnvironmentSet/Foliage/Flowers/SM_FlowerClump_B_01.SM_FlowerClump_B_01
+[2023.12.07-21.21.26:141][684]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/LUSH_StylizedEnvironmentSet/Foliage/Flowers/SM_FlowerClump_B_01.SM_FlowerClump_B_01
+[2023.12.07-21.21.26:143][684]LogActorFactory: Actor Factory spawned StaticMesh /Game/LUSH_StylizedEnvironmentSet/Foliage/Flowers/SM_FlowerClump_B_01.SM_FlowerClump_B_01 as actor: StaticMeshActor /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_UAID_105107B09B7694C301_1510061680
+[2023.12.07-21.21.37:706][194]LogStaticMesh: Display: Building static mesh SM_FlowerClump_D_01...
+[2023.12.07-21.21.37:729][194]LogStaticMesh: Built static mesh [0.02s] /Game/LUSH_StylizedEnvironmentSet/Foliage/Flowers/SM_FlowerClump_D_01.SM_FlowerClump_D_01
+[2023.12.07-21.21.37:776][194]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.12.07-21.21.39:473][272]LogStaticMesh: Display: Building static mesh SM_FlowerClump_C_01...
+[2023.12.07-21.21.39:620][276]LogStaticMesh: Built static mesh [0.15s] /Game/LUSH_StylizedEnvironmentSet/Foliage/Flowers/SM_FlowerClump_C_01.SM_FlowerClump_C_01
+[2023.12.07-21.21.47:984][675]Cmd: TRANSACTION UNDO
+[2023.12.07-21.21.47:984][675]LogEditorTransaction: Undo Clicking on Elements
+[2023.12.07-21.21.48:071][675]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.12.07-21.21.48:257][678]Cmd: TRANSACTION UNDO
+[2023.12.07-21.21.48:257][678]LogEditorTransaction: Undo Clicking on Elements
+[2023.12.07-21.21.48:355][678]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.12.07-21.21.48:490][681]Cmd: TRANSACTION UNDO
+[2023.12.07-21.21.48:490][681]LogEditorTransaction: Undo Clicking on Elements
+[2023.12.07-21.21.48:588][681]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.12.07-21.21.48:946][702]Cmd: TRANSACTION UNDO
+[2023.12.07-21.21.48:946][702]LogEditorTransaction: Undo Clicking on Elements
+[2023.12.07-21.21.48:971][702]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.12.07-21.21.49:427][724]Cmd: TRANSACTION UNDO
+[2023.12.07-21.21.49:427][724]LogEditorTransaction: Undo Create Actors
+[2023.12.07-21.21.49:490][724]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.12.07-21.21.55:196][  2]LogStaticMesh: Display: Building static mesh SM_Bush_Medium_01...
+[2023.12.07-21.21.55:218][  2]LogTexture: Display: Building textures: /Game/LUSH_StylizedEnvironmentSet/_SharedAssets/T_Tree_Leaves_02.T_Tree_Leaves_02 (TFO_AutoDXT, 1024x1024 x1x1x1) (Required Memory Estimate: 124.145823 MB), EncodeSpeed: Fast
+[2023.12.07-21.21.55:224][  2]LogTexture: Display: Building textures: /Game/LUSH_StylizedEnvironmentSet/_SharedAssets/T_Tree_Leaves_03.T_Tree_Leaves_03 (TFO_AutoDXT, 1024x1024 x1x1x1) (Required Memory Estimate: 124.145823 MB), EncodeSpeed: Fast
+[2023.12.07-21.21.55:225][  2]LogStaticMesh: Built static mesh [0.03s] /Game/LUSH_StylizedEnvironmentSet/Foliage/Bushes/SM_Bush_Medium_01.SM_Bush_Medium_01
+[2023.12.07-21.21.55:271][  2]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/LUSH_StylizedEnvironmentSet/Foliage/Bushes/SM_Bush_Medium_01.SM_Bush_Medium_01
+[2023.12.07-21.21.55:271][  2]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/LUSH_StylizedEnvironmentSet/Foliage/Bushes/SM_Bush_Medium_01.SM_Bush_Medium_01
+[2023.12.07-21.21.55:272][  2]LogActorFactory: Actor Factory spawned StaticMesh /Game/LUSH_StylizedEnvironmentSet/Foliage/Bushes/SM_Bush_Medium_01.SM_Bush_Medium_01 as actor: StaticMeshActor /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_2
+[2023.12.07-21.21.55:364][  2]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.12.07-21.21.56:158][ 37]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/LUSH_StylizedEnvironmentSet/Foliage/Bushes/SM_Bush_Medium_01.SM_Bush_Medium_01
+[2023.12.07-21.21.56:159][ 37]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/LUSH_StylizedEnvironmentSet/Foliage/Bushes/SM_Bush_Medium_01.SM_Bush_Medium_01
+[2023.12.07-21.21.56:167][ 37]LogActorFactory: Actor Factory spawned StaticMesh /Game/LUSH_StylizedEnvironmentSet/Foliage/Bushes/SM_Bush_Medium_01.SM_Bush_Medium_01 as actor: StaticMeshActor /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_UAID_105107B09B7694C301_1540079681
+[2023.12.07-21.21.59:194][ 89]LogMeshUtilities: Finished distance field build in 3.9s - 112x112x70 sparse distance field, 1.1Mb total, 0.0Mb always loaded, 72% occupied, 87 triangles, SM_Bush_Medium_01
+[2023.12.07-21.22.10:541][620]Cmd: DELETE
+[2023.12.07-21.22.10:541][620]Cmd: ACTOR DELETE
+[2023.12.07-21.22.10:545][620]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.12.07-21.22.10:556][620]LogWorldPartition: Actor /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_UAID_105107B09B7694C301_1510061680 is unreachable without properly detaching object /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/D/LN/XUCPUMRV8WEMZBJSIZ7QU6.PackageMetaData in its package
+[2023.12.07-21.22.10:561][620]LogUObjectHash: Compacting FUObjectHashTables data took   0.63ms
+[2023.12.07-21.22.10:563][620]LogEditorActor: Deleted 1 Actors (0.023 secs)
+[2023.12.07-21.22.10:577][620]LogUObjectHash: Compacting FUObjectHashTables data took   0.63ms
+[2023.12.07-21.22.34:044][900]LogTexture: Display: Building textures: /Game/LUSH_StylizedEnvironmentSet/Foliage/Trees/Textures/T_BananaLeaf_02_D.T_BananaLeaf_02_D (TFO_AutoDXT, 1024x1024 x1x1x1) (Required Memory Estimate: 124.145823 MB), EncodeSpeed: Fast
+[2023.12.07-21.22.34:054][900]LogTexture: Display: Building textures: /Game/LUSH_StylizedEnvironmentSet/Foliage/Trees/Textures/T_Bark_01_D.T_Bark_01_D (TFO_BC7, 1024x1024 x1x1x1) (Required Memory Estimate: 72.062484 MB), EncodeSpeed: Fast
+[2023.12.07-21.22.34:072][900]LogTexture: Display: Building textures: /Game/LUSH_StylizedEnvironmentSet/Foliage/Trees/Textures/T_Banana_Bark_D.T_Banana_Bark_D (TFO_BC7, 1024x1024 x1x1x1) (Required Memory Estimate: 72.062484 MB), EncodeSpeed: Fast
+[2023.12.07-21.22.34:099][900]LogTexture: Display: Building textures: /Game/LUSH_StylizedEnvironmentSet/Foliage/Trees/Textures/T_Bark_01_RAOH.T_Bark_01_RAOH (TFO_AutoDXT, 1024x1024 x1x1x1) (Required Memory Estimate: 124.145823 MB), EncodeSpeed: Fast
+[2023.12.07-21.22.34:196][901]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/LUSH_StylizedEnvironmentSet/Foliage/Trees/SM_BananaTree_03.SM_BananaTree_03
+[2023.12.07-21.22.34:196][901]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/LUSH_StylizedEnvironmentSet/Foliage/Trees/SM_BananaTree_03.SM_BananaTree_03
+[2023.12.07-21.22.34:197][901]LogActorFactory: Actor Factory spawned StaticMesh /Game/LUSH_StylizedEnvironmentSet/Foliage/Trees/SM_BananaTree_03.SM_BananaTree_03 as actor: StaticMeshActor /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_7
+[2023.12.07-21.22.34:198][901]LogStaticMesh: Display: Building static mesh SM_BananaTree_03...
+[2023.12.07-21.22.34:200][901]LogTexture: Display: Building textures: /Game/LUSH_StylizedEnvironmentSet/Foliage/Trees/Textures/T_Banana_Bark_N.T_Banana_Bark_N (TFO_BC5, 1024x1024 x1x1x1) (Required Memory Estimate: 217.562488 MB), EncodeSpeed: Fast
+[2023.12.07-21.22.34:203][901]LogTexture: Display: Building textures: /Game/LUSH_StylizedEnvironmentSet/Foliage/Trees/Textures/T_BananaLeaf_02_N.T_BananaLeaf_02_N (TFO_BC5, 1024x1024 x1x1x1) (Required Memory Estimate: 217.562488 MB), EncodeSpeed: Fast
+[2023.12.07-21.22.34:214][901]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Game/LUSH_StylizedEnvironmentSet/Foliage/Trees/SM_BananaTree_03) ...
+[2023.12.07-21.22.34:222][901]LogTexture: Display: Building textures: /Game/LUSH_StylizedEnvironmentSet/Foliage/Trees/Textures/T_Bark_01_N.T_Bark_01_N (TFO_BC5, 1024x1024 x1x1x1) (Required Memory Estimate: 217.562488 MB), EncodeSpeed: Fast
+[2023.12.07-21.22.34:324][901]LogStaticMesh: Built static mesh [0.13s] /Game/LUSH_StylizedEnvironmentSet/Foliage/Trees/SM_BananaTree_03.SM_BananaTree_03
+[2023.12.07-21.22.34:339][901]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.12.07-21.22.34:775][912]LogShaderCompilers: Display: FShaderCompileThreadRunnable::WriteNewTasks()() took too long (0.382 seconds, threshold is 0.300 s), will parallelize next time.
+[2023.12.07-21.22.34:948][914]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/LUSH_StylizedEnvironmentSet/Foliage/Trees/SM_BananaTree_03.SM_BananaTree_03
+[2023.12.07-21.22.34:948][914]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/LUSH_StylizedEnvironmentSet/Foliage/Trees/SM_BananaTree_03.SM_BananaTree_03
+[2023.12.07-21.22.34:960][914]LogActorFactory: Actor Factory spawned StaticMesh /Game/LUSH_StylizedEnvironmentSet/Foliage/Trees/SM_BananaTree_03.SM_BananaTree_03 as actor: StaticMeshActor /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_UAID_105107B09B7694C301_1578868682
+[2023.12.07-21.22.38:028][980]LogTexture: Display: Building textures: /Game/LUSH_StylizedEnvironmentSet/Foliage/Trees/Textures/T_Banana_Bark_RHAO.T_Banana_Bark_RHAO (TFO_AutoDXT, 1024x1024 x1x1x1) (Required Memory Estimate: 124.145823 MB), EncodeSpeed: Fast
+[2023.12.07-21.22.38:516][986]LogMeshUtilities: Finished distance field build in 2.7s - 91x98x119 sparse distance field, 0.9Mb total, 0.0Mb always loaded, 45% occupied, 258 triangles, SM_BananaTree_03
+[2023.12.07-21.22.46:142][257]LogStaticMesh: Display: Building static mesh SM_Tree_Large_01...
+[2023.12.07-21.22.46:221][257]LogTexture: Display: Building textures: /Game/LUSH_StylizedEnvironmentSet/Foliage/Trees/Textures/T_Bark_04_D.T_Bark_04_D (TFO_AutoDXT, 2048x2048 x1x1x1) (Required Memory Estimate: 288.062484 MB), EncodeSpeed: Fast
+[2023.12.07-21.22.46:249][257]LogTexture: Display: Building textures: /Game/LUSH_StylizedEnvironmentSet/Foliage/Trees/Textures/T_Bark_04_RAOH.T_Bark_04_RAOH (TFO_AutoDXT, 2048x2048 x1x1x1) (Required Memory Estimate: 288.062484 MB), EncodeSpeed: Fast
+[2023.12.07-21.22.46:733][274]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/LUSH_StylizedEnvironmentSet/Foliage/Trees/SM_Tree_Large_01.SM_Tree_Large_01
+[2023.12.07-21.22.46:733][274]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/LUSH_StylizedEnvironmentSet/Foliage/Trees/SM_Tree_Large_01.SM_Tree_Large_01
+[2023.12.07-21.22.46:735][274]LogActorFactory: Actor Factory spawned StaticMesh /Game/LUSH_StylizedEnvironmentSet/Foliage/Trees/SM_Tree_Large_01.SM_Tree_Large_01 as actor: StaticMeshActor /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_11
+[2023.12.07-21.22.46:737][274]LogStaticMesh: Built static mesh [0.60s] /Game/LUSH_StylizedEnvironmentSet/Foliage/Trees/SM_Tree_Large_01.SM_Tree_Large_01
+[2023.12.07-21.22.46:753][274]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Game/LUSH_StylizedEnvironmentSet/Foliage/Trees/SM_Tree_Large_01) ...
+[2023.12.07-21.22.46:770][274]LogTexture: Display: Building textures: /Game/LUSH_StylizedEnvironmentSet/Foliage/Trees/Textures/T_Bark_04_N.T_Bark_04_N (TFO_BC5, 2048x2048 x1x1x1) (Required Memory Estimate: 397.562488 MB), EncodeSpeed: Fast
+[2023.12.07-21.22.50:202][318]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/LUSH_StylizedEnvironmentSet/Foliage/Trees/SM_Tree_Large_01.SM_Tree_Large_01
+[2023.12.07-21.22.50:202][318]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/LUSH_StylizedEnvironmentSet/Foliage/Trees/SM_Tree_Large_01.SM_Tree_Large_01
+[2023.12.07-21.22.50:214][318]LogActorFactory: Actor Factory spawned StaticMesh /Game/LUSH_StylizedEnvironmentSet/Foliage/Trees/SM_Tree_Large_01.SM_Tree_Large_01 as actor: StaticMeshActor /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_UAID_105107B09B7694C301_1594122683
+[2023.12.07-21.22.55:786][386]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.12.07-21.22.56:170][386]LogSavePackage: Moving output files for package: /Game/LUSH_StylizedEnvironmentSet/Foliage/Trees/SM_Tree_Large_01
+[2023.12.07-21.22.56:188][386]LogSavePackage: Moving '../../../../../../temp/cgt545_assignment_5_park1187/MyProject2/Saved/SM_Tree_Large_01F218EFF2402B616C34EC63B991931741.tmp' to '../../../../../../temp/cgt545_assignment_5_park1187/MyProject2/Content/LUSH_StylizedEnvironmentSet/Foliage/Trees/SM_Tree_Large_01.uasset'
+[2023.12.07-21.22.56:242][386]LogFileHelpers: InternalPromptForCheckoutAndSave took 457 ms (total: 9.06 sec)
+[2023.12.07-21.22.56:256][386]AssetCheck: New page: Asset Save: SM_Tree_Large_01
+[2023.12.07-21.22.56:256][386]LogContentValidation: Display: Validating /Script/Engine.StaticMesh /Game/LUSH_StylizedEnvironmentSet/Foliage/Trees/SM_Tree_Large_01.SM_Tree_Large_01
+[2023.12.07-21.22.58:109][404]LogMeshUtilities: Finished distance field build in 11.3s - 126x126x126 sparse distance field, 1.6Mb total, 0.1Mb always loaded, 45% occupied, 1398 triangles, SM_Tree_Large_01
+[2023.12.07-21.22.59:536][408]LogMeshUtilities: Finished mesh card build in 1.3s SM_Tree_Large_01 tris:1398 surfels:4182
