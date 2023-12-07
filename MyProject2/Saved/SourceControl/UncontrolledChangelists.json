@@ -1,0 +1,42 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/temp/cgt545_04_park1187/MyProject2/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset",
+				"C:/temp/cgt545_04_park1187/MyProject2/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/7/5X/6EW8RE9VA2GGHRWK614FCI.uasset",
+				"C:/temp/cgt545_04_park1187/MyProject2/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/1/B3/MTJZMCRG5TO6OGIS94WVSN.uasset",
+				"C:/temp/cgt545_04_park1187/MyProject2/Content/NewWidgetBlueprint.uasset",
+				"C:/temp/cgt545_04_park1187/MyProject2/Content/Health.uasset",
+				"C:/temp/cgt545_04_park1187/MyProject2/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/E/MX/R1GV431P5FDO08OFULRA01.uasset",
+				"C:/temp/cgt545_04_park1187/MyProject2/Content/Blueprints/Doors/bp_door_parents.uasset",
+				"C:/temp/cgt545_04_park1187/MyProject2/Content/Blueprints/Doors/door_child.uasset",
+				"C:/temp/cgt545_04_park1187/MyProject2/Content/Blueprints/Doors/BPC_Door_Overlap.uasset",
+				"C:/temp/cgt545_04_park1187/MyProject2/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/A/5O/WE0LT5HO50AVCDOIA3N9HG.uasset",
+				"C:/temp/cgt545_04_park1187/MyProject2/Content/Blueprints/Doors/BP+Pressureplate.uasset",
+				"C:/temp/cgt545_04_park1187/MyProject2/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/3/C8/Z38FT77DKZLKDXTQ7PZNM4.uasset",
+				"C:/temp/cgt545_04_park1187/MyProject2/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/7/GI/GZM47KS5FPIQH5TLSYC1ME.uasset",
+				"C:/temp/cgt545_04_park1187/MyProject2/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/8/CF/ZNIOCRD90Z70MMV9NMW778.uasset",
+				"C:/temp/cgt545_04_park1187/MyProject2/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/4/5Z/FRB1QDI2SAMK86U3GKIWMH.uasset",
+				"C:/temp/cgt545_04_park1187/MyProject2/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/5/NZ/KHKIY1LJI8RNI7KW319409.uasset",
+				"C:/temp/cgt545_04_park1187/MyProject2/Content/Blueprints/Doors/bpc_door_interact.uasset",
+				"C:/temp/cgt545_04_park1187/MyProject2/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/6/RS/D4L9W2OPJJUBK7JUWA5UR1.uasset",
+				"C:/temp/cgt545_04_park1187/MyProject2/Content/Blueprints/FirstPersonTemplate/BPI_Interaction.uasset",
+				"C:/temp/cgt545_04_park1187/MyProject2/Content/Blueprints/Doors/bpc_door_interface.uasset",
+				"C:/temp/cgt545_04_park1187/MyProject2/Content/Blueprints/FirstPersonTemplate/BP_FirstPersonCharacter.uasset",
+				"C:/temp/cgt545_04_park1187/MyProject2/Content/StarterContent/Props/SM_Door.uasset",
+				"C:/temp/cgt545_04_park1187/MyProject2/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/0/5X/2GD34X6OV5V90KM83X6GNC.uasset",
+				"C:/temp/cgt545_04_park1187/MyProject2/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/9/WH/14KEK8H5PNZO86K3XOHG2T.uasset",
+				"C:/temp/cgt545_04_park1187/MyProject2/Content/Blueprints/FirstPersonTemplate/BP_FirstPersonProjectile.uasset",
+				"C:/temp/cgt545_04_park1187/MyProject2/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/1/W4/P046UQZVIMVLBBFJPHEK4C.uasset",
+				"C:/temp/cgt545_04_park1187/MyProject2/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/6/C4/XBQL09WBSH8NH7MVS5986I.uasset",
+				"C:/temp/cgt545_04_park1187/MyProject2/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/6/L3/7ZUJ34BSEJNLILP8D4X075.uasset",
+				"C:/temp/cgt545_04_park1187/MyProject2/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/7/99/T2XF5ZXVY3IQXELD7ZWJXZ.uasset",
+				"C:/temp/cgt545_04_park1187/MyProject2/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/E/FL/855HD1KE81YW5DUWXXWVFQ.uasset",
+				"C:/temp/cgt545_04_park1187/MyProject2/Content/FirstPerson/Blueprints/BP_FirstPersonProjectile.uasset"
+			]
+		}
+	]
+}
